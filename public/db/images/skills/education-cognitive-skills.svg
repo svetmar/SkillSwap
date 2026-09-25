@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Когнитивные техники">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6f2f8"/>
+      <stop offset="100%" stop-color="#b3d8ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="798" cy="455" r="178" fill="#4a94bb" opacity="0.12"/>
+  <circle cx="194" cy="404" r="156" fill="#4a94bb" opacity="0.10"/>
+  <circle cx="164" cy="498" r="147" fill="#4a94bb" opacity="0.10"/>
+  <path d="M386 156 c-68 0 -114 40 -114 96 c-26 18 -26 62 4 78 c-6 44 34 76 82 70 l28 0 z" fill="#f2fafd"/>
+    <path d="M414 156 c68 0 114 40 114 96 c26 18 26 62 -4 78 c6 44 -34 76 -82 70 l-28 0 z" fill="#4a94bb"/>
+    <g stroke="#173a4b" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.65">
+      <path d="M356 216 c-30 10 -30 46 0 56 c-28 16 -18 52 14 56"/>
+      <path d="M444 216 c30 10 30 46 0 56 c28 16 18 52 -14 56"/>
+    </g>
+    <g stroke="#173a4b" stroke-width="10" stroke-linecap="round">
+      <path d="M578 200 v-34"/><path d="M604 232 h34"/><path d="M596 206 l24 -24"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#173a4b">Когнитивные техники</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#173a4b" opacity="0.65">ОБРАЗОВАНИЕ И РАЗВИТИЕ</text>
+</svg>

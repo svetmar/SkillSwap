@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Арт-терапия">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="682" cy="23" r="122" fill="#cf6aa8" opacity="0.12"/>
+  <circle cx="782" cy="523" r="114" fill="#cf6aa8" opacity="0.13"/>
+  <circle cx="150" cy="183" r="180" fill="#cf6aa8" opacity="0.12"/>
+  <path d="M382 148 c104 0 176 62 176 136 c0 48 -38 66 -74 66 c-30 0 -46 16 -46 40 c0 24 -22 40 -56 40 c-86 0 -158 -62 -158 -140 c0 -84 72 -142 158 -142 z" fill="#fdf2f9"/>
+    <circle cx="316" cy="238" r="24" fill="#cf6aa8"/>
+    <circle cx="392" cy="204" r="24" fill="#5a2148"/>
+    <circle cx="470" cy="238" r="24" fill="#efb9de"/>
+    <path d="M392 282 c20 -24 58 -20 67 9 c7 22 -9 45 -36 65 l-31 24 l-31 -24 c-27 -20 -43 -43 -36 -65 c9 -29 47 -33 67 -9 z" fill="#cf6aa8"/>
+    <g transform="rotate(38 528 336)">
+      <rect x="514" y="228" width="28" height="118" rx="10" fill="#5a2148"/>
+      <path d="M514 346 h28 l-14 40 z" fill="#cf6aa8"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Арт-терапия</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

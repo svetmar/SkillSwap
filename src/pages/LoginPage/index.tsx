@@ -9,6 +9,8 @@ import { CloseEye } from './CloseEye'
 import bulb from './light-bulb.png'
 import clsx from 'clsx'
 import { getAuthUser, findRegisteredUserByEmail, saveAuthUser } from '@/features/auth/model/authUtils'
+import { fetchUserByEmail } from '@/api/users'
+import type { AuthUser } from '@/shared/types'
 import style from './loginPage.module.css'
 import { useAppDispatch } from '@/store/hooks'
 import { setUser } from '@/features/auth/model/authSlice'
@@ -26,14 +28,34 @@ export default function LoginPage() {
     setShowPassword((prev) => !prev)
   }
 
-  const onSubmitForm = (e: React.FormEvent<HTMLFormElement>) => {
+  const onSubmitForm = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     setError(false)
 
-    let user = getAuthUser()
+    let user: AuthUser | null = getAuthUser()
 
     if (!user || user.email !== email) {
       user = findRegisteredUserByEmail(email)
+    }
+
+    // Пользователь не регистрировался в этом браузере — ищем демо-аккаунт в моках
+    if (!user) {
+      const demoUser = await fetchUserByEmail(email).catch(() => undefined)
+
+      if (demoUser) {
+        user = {
+          id: demoUser.id,
+          name: demoUser.name,
+          email: demoUser.email,
+          password: demoUser.password,
+          token: '',
+          avatarUrl: demoUser.avatarUrl,
+          city: demoUser.city,
+          birthDate: demoUser.birthDate,
+          gender: demoUser.gender,
+          about: demoUser.about,
+        }
+      }
     }
 
     if (!user || user.password !== password) {
@@ -41,8 +63,8 @@ export default function LoginPage() {
       return
     }
 
-    saveAuthUser(user)
-    dispatch(setUser(user))
+    const authUser = saveAuthUser(user)
+    dispatch(setUser(authUser))
   }
 
   return (

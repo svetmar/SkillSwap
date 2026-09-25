@@ -12,6 +12,7 @@ import { SkillImageUpload } from '../../features/skill-image-upload'
 import boardimg from '@/assets/images/schoolBoard.svg'
 import type { SkillCategory } from '@/shared/types'
 import { ROUTES } from '@/shared/lib/constants'
+import { fetchCategories } from '@/api/categories'
 
 const REGISTRATION_KEY = 'skillswap_registration'
 
@@ -38,9 +39,9 @@ export default function RegistrationStep3Page() {
   const [, setSkillImage] = useState<File | null>(null)
 
   useEffect(() => {
-    fetch('/db/skills.json')
-      .then((response) => response.json())
+    fetchCategories()
       .then((data: SkillCategory[]) => setCategories(data))
+      .catch(() => setCategories([]))
   }, [])
 
   const categoryOptions: MultiSelectOption[] = categories.map(category => ({

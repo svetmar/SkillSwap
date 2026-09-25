@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Навыки обучения">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6f2f8"/>
+      <stop offset="100%" stop-color="#b3d8ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="585" cy="20" r="101" fill="#4a94bb" opacity="0.13"/>
+  <circle cx="785" cy="41" r="120" fill="#4a94bb" opacity="0.09"/>
+  <circle cx="604" cy="495" r="113" fill="#4a94bb" opacity="0.14"/>
+  <g>
+      <rect x="248" y="366" width="304" height="46" rx="14" fill="#173a4b"/>
+      <rect x="268" y="316" width="264" height="46" rx="14" fill="#4a94bb"/>
+      <rect x="288" y="266" width="224" height="46" rx="14" fill="#b3d8ea"/>
+    </g>
+    <g>
+      <path d="M400 130 c50 0 84 34 84 78 c0 30 -18 44 -28 60 h-112 c-10 -16 -28 -30 -28 -60 c0 -44 34 -78 84 -78 z" fill="#f2fafd" stroke="#173a4b" stroke-width="10" stroke-linejoin="round"/>
+      <rect x="366" y="222" width="68" height="18" rx="9" fill="#4a94bb"/>
+      <g stroke="#4a94bb" stroke-width="9" stroke-linecap="round">
+        <path d="M400 96 v-26"/><path d="M296 154 l-24 -14"/><path d="M504 154 l24 -14"/>
+      </g>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#173a4b">Навыки обучения</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#173a4b" opacity="0.65">ОБРАЗОВАНИЕ И РАЗВИТИЕ</text>
+</svg>

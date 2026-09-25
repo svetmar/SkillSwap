@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Приготовление еды">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbeee6"/>
+      <stop offset="100%" stop-color="#f0c9b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="766" cy="470" r="161" fill="#cf8a63" opacity="0.10"/>
+  <circle cx="150" cy="410" r="128" fill="#cf8a63" opacity="0.11"/>
+  <circle cx="649" cy="228" r="138" fill="#cf8a63" opacity="0.10"/>
+  <g stroke="#5a3624" stroke-width="9" stroke-linecap="round" fill="none" opacity="0.45">
+      <path d="M348 214 c-26 -22 -26 -50 0 -72 c26 -22 26 -50 0 -72"/>
+      <path d="M400 202 c-26 -22 -26 -50 0 -72 c26 -22 26 -50 0 -72"/>
+      <path d="M452 214 c-26 -22 -26 -50 0 -72 c26 -22 26 -50 0 -72"/>
+    </g>
+    <rect x="232" y="256" width="336" height="26" rx="13" fill="#5a3624"/>
+    <circle cx="400" cy="244" r="17" fill="#5a3624"/>
+    <path d="M268 294 h264 l-22 132 a34 34 0 0 1 -34 28 h-152 a34 34 0 0 1 -34 -28 z" fill="#cf8a63"/>
+    <path d="M268 294 h264 l-7 42 h-250 z" fill="#b97148"/>
+    <rect x="214" y="308" width="58" height="26" rx="13" fill="#5a3624"/>
+    <rect x="528" y="308" width="58" height="26" rx="13" fill="#5a3624"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a3624">Приготовление еды</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a3624" opacity="0.65">ДОМ И УЮТ</text>
+</svg>

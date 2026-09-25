@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Управление командой">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#efe6fb"/>
+      <stop offset="100%" stop-color="#c9b6f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="788" cy="389" r="175" fill="#8a6fd4" opacity="0.10"/>
+  <circle cx="744" cy="500" r="146" fill="#8a6fd4" opacity="0.09"/>
+  <circle cx="191" cy="96" r="137" fill="#8a6fd4" opacity="0.09"/>
+  <circle cx="298" cy="252" r="30" fill="#8a6fd4"/>
+    <rect x="256" y="298" width="84" height="58" rx="29" fill="#8a6fd4"/>
+    <circle cx="502" cy="252" r="30" fill="#8a6fd4"/>
+    <rect x="460" y="298" width="84" height="58" rx="29" fill="#8a6fd4"/>
+    <circle cx="400" cy="216" r="40" fill="#3b2a63"/>
+    <rect x="342" y="274" width="116" height="76" rx="38" fill="#3b2a63"/>
+    <path d="M268 388 h264" stroke="#3b2a63" stroke-width="10" stroke-linecap="round" opacity="0.35"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#3b2a63">Управление командой</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#3b2a63" opacity="0.65">БИЗНЕС И КАРЬЕРА</text>
+</svg>

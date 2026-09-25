@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Дом и уют">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbeee6"/>
+      <stop offset="100%" stop-color="#f0c9b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="712" cy="67" r="138" fill="#cf8a63" opacity="0.13"/>
+  <circle cx="5" cy="327" r="160" fill="#cf8a63" opacity="0.09"/>
+  <circle cx="663" cy="517" r="164" fill="#cf8a63" opacity="0.13"/>
+  <path d="M400 146 l180 152 h-46 v132 a20 20 0 0 1 -20 20 h-228 a20 20 0 0 1 -20 -20 v-132 h-46 z" fill="#cf8a63"/>
+    <rect x="366" y="326" width="68" height="124" rx="10" fill="#5a3624"/>
+    <rect x="286" y="326" width="56" height="52" rx="10" fill="#fff6ef"/>
+    <rect x="458" y="326" width="56" height="52" rx="10" fill="#fff6ef"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a3624">Дом и уют</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a3624" opacity="0.65">SKILLSWAP</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Креативное письмо">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="166" cy="165" r="103" fill="#cf6aa8" opacity="0.15"/>
+  <circle cx="130" cy="223" r="139" fill="#cf6aa8" opacity="0.15"/>
+  <circle cx="29" cy="586" r="125" fill="#cf6aa8" opacity="0.11"/>
+  <rect x="236" y="158" width="250" height="286" rx="20" fill="#fdf2f9"/>
+    <g stroke="#efb9de" stroke-width="12" stroke-linecap="round">
+      <path d="M272 220 h178"/>
+      <path d="M272 262 h178"/>
+      <path d="M272 304 h140"/>
+      <path d="M272 346 h100"/>
+    </g>
+    <g transform="rotate(32 500 260)">
+      <path d="M486 140 c46 34 46 130 14 190 l-28 0 c-32 -60 -32 -156 14 -190 z" fill="#cf6aa8"/>
+      <path d="M472 330 l14 44 l14 -44 z" fill="#5a2148"/>
+      <path d="M486 148 v182" stroke="#5a2148" stroke-width="7" opacity="0.5"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Креативное письмо</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

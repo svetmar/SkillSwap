@@ -25,6 +25,8 @@ import boardImg from '@/assets/images/schoolBoard.svg'
 import { CrossIcon } from '../RegistrationStep1Page/icons/CrossIcon'
 import { EyeIcon } from '../RegistrationStep1Page/icons/EyeIcon'
 import styles from './RegisterPage.module.css'
+import { fetchCities } from '@/api/cities'
+import { fetchCategories } from '@/api/categories'
 
 type Step = 1 | 2 | 3
 
@@ -103,15 +105,15 @@ export default function RegisterPage() {
   const [passwordError, setPasswordError] = useState('')
 
   useEffect(() => {
-    fetch('/db/cities.json')
-      .then((response) => response.json())
+    fetchCities()
       .then((data: City[]) => setCities(data))
+      .catch(() => setCities([]))
   }, [])
 
   useEffect(() => {
-    fetch('/db/skills.json')
-      .then((response) => response.json())
+    fetchCategories()
       .then((data: SkillCategory[]) => setCategories(data))
+      .catch(() => setCategories([]))
   }, [])
 
   useEffect(() => {

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Сон и восстановление">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9f7e7"/>
+      <stop offset="100%" stop-color="#bce3b4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="719" cy="220" r="91" fill="#6aab5c" opacity="0.08"/>
+  <circle cx="39" cy="378" r="147" fill="#6aab5c" opacity="0.13"/>
+  <circle cx="31" cy="533" r="176" fill="#6aab5c" opacity="0.12"/>
+  <path d="M466 140 c-88 12 -150 78 -150 156 c0 86 70 150 158 138 c-66 -34 -104 -82 -104 -146 c0 -62 36 -114 96 -148 z" fill="#22401c"/>
+    <g fill="#6aab5c">
+      <path d="M528 190 l10 24 l24 10 l-24 10 l-10 24 l-10 -24 l-24 -10 l24 -10 z"/>
+      <path d="M244 258 l8 20 l20 8 l-20 8 l-8 20 l-8 -20 l-20 -8 l20 -8 z"/>
+    </g>
+    <g font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-weight="600" fill="#6aab5c">
+      <text x="536" y="330" font-size="46">z</text>
+      <text x="572" y="296" font-size="34">z</text>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#22401c">Сон и восстановление</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#22401c" opacity="0.65">ЗДОРОВЬЕ И ЛАЙФСТАЙЛ</text>
+</svg>

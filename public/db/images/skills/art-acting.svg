@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Актёрское мастерство">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="719" cy="588" r="110" fill="#cf6aa8" opacity="0.12"/>
+  <circle cx="646" cy="270" r="109" fill="#cf6aa8" opacity="0.09"/>
+  <circle cx="134" cy="61" r="96" fill="#cf6aa8" opacity="0.09"/>
+  <g transform="rotate(-10 320 290)">
+      <path d="M248 200 h144 v96 a72 72 0 0 1 -144 0 z" fill="#5a2148"/>
+      <circle cx="288" cy="248" r="12" fill="#fdf2f9"/>
+      <circle cx="352" cy="248" r="12" fill="#fdf2f9"/>
+      <path d="M288 296 a40 26 0 0 0 64 0" stroke="#fdf2f9" stroke-width="11" fill="none" stroke-linecap="round"/>
+    </g>
+    <g transform="rotate(10 480 290)">
+      <path d="M408 200 h144 v96 a72 72 0 0 1 -144 0 z" fill="#cf6aa8"/>
+      <circle cx="448" cy="248" r="12" fill="#fdf2f9"/>
+      <circle cx="512" cy="248" r="12" fill="#fdf2f9"/>
+      <path d="M448 312 a40 26 0 0 1 64 0" stroke="#fdf2f9" stroke-width="11" fill="none" stroke-linecap="round"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Актёрское мастерство</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

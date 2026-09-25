@@ -4,6 +4,8 @@ import { FiltersSidebar, type FiltersSidebarValue } from '@/features/filters'
 import { useAppDispatch, useAppSelector } from '@/store/hooks'
 import { fetchUsersThunk } from '@/entities/user/model/usersSlice'
 import { selectUsers } from '@/entities/user/model/selectors'
+import { fetchSkillsThunk } from '@/entities/skill/model/skillsSlice'
+import { selectSkills, selectSkillsLoading } from '@/entities/skill/model/selectors'
 import {
   setTypeFilter,
   setCategoryFilter,
@@ -31,8 +33,8 @@ export default function CatalogPage() {
   const navigate = useNavigate()
   const users = useAppSelector(selectUsers)
 
-  const [skills, setSkills] = useState<Skill[]>([])
-  const [isLoading, setIsLoading] = useState(true)
+  const skills = useAppSelector(selectSkills)
+  const isLoading = useAppSelector(selectSkillsLoading)
   const [recommendedCount, setRecommendedCount] = useState(INITIAL_RECOMMENDED)
 
   const { toggleFavorite, isFavorite } = useFavorites()
@@ -59,15 +61,9 @@ export default function CatalogPage() {
   const searchValue = useAppSelector((state) => state.search.value)
 
   useEffect(() => {
-    fetch('/db/userSkills.json')
-      .then((res) => res.json())
-      .then((data) => {
-        setSkills(data)
-        setIsLoading(false)
-      })
-      .catch(() => setIsLoading(false))
-    dispatch(fetchUsersThunk())
-  }, [dispatch])
+    if (users.length === 0) dispatch(fetchUsersThunk())
+    if (skills.length === 0) dispatch(fetchSkillsThunk())
+  }, [dispatch, users.length, skills.length])
 
   useEffect(() => {
     setRecommendedCount(INITIAL_RECOMMENDED)

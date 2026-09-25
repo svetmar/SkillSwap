@@ -1,1694 +1,2431 @@
 [
   {
     "id": "skill_001",
-    "title": "Маркетинг и реклама",
-    "description": "Привет! Я занимаюсь маркетингом и рекламой уже несколько лет — помогал проектам находить клиентов и выстраивать эффективное продвижение. Научу анализировать аудиторию, запускать рекламные кампании и создавать понятную маркетинговую стратегию без сложного профессионального жаргона.",
+    "title": "Маркетинг с нуля",
+    "description": "Семь лет веду продвижение для небольших брендов и знаю, как не слить бюджет на первых шагах. Разберём вашу аудиторию, соберём воронку и запустим первую рекламную кампанию — без сложного жаргона и дорогих подрядчиков.",
     "type": "teach",
     "category": "business",
     "subcategory": "marketing",
     "tags": "бизнес",
-    "imageUrl": null,
+    "imageUrl": "/db/images/skills/business-marketing.svg",
+    "photos": [
+      "/db/images/skills/business-marketing.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-time-management.svg"
+    ],
     "authorId": "user_001",
-    "createdAt": "2021-01-18T10:32:00Z"
+    "createdAt": "2021-07-23T02:05:00Z"
   },
   {
     "id": "skill_002",
-    "title": "Предпринимательство",
-    "description": "Привет! Я запускал собственные проекты и знаю, с какими трудностями сталкиваются предприниматели в начале пути. Поделюсь опытом проверки идей, поиска первых клиентов и выстраивания рабочих процессов без лишней теории.",
+    "title": "Разговорный английский",
+    "description": "Читаю профессиональные статьи свободно, но на созвонах с иностранными коллегами теряюсь и перехожу на односложные ответы. Ищу собеседника для регулярной практики: полчаса в неделю обсуждать рабочие темы вслух.",
     "type": "learn",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_001",
-    "createdAt": "2021-01-24T15:10:00Z"
-  },
-  {
-    "id": "skill_003",
-    "title": "Питание и ЗОЖ",
-    "description": "Привет! Хочу лучше разобраться в питании и здоровом образе жизни. Интересует, как составлять сбалансированный рацион, поддерживать энергию в течение дня и постепенно формировать полезные привычки без строгих диет.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "nutrition",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_001",
-    "createdAt": "2021-02-03T09:45:00Z"
-  },
-  {
-    "id": "skill_004",
-    "title": "Английский",
-    "description": "Привет! Я свободно использую английский в работе и путешествиях уже много лет. Помогу подтянуть разговорную речь, разобраться с грамматикой, улучшить произношение и чувствовать себя увереннее в общении.",
-    "type": "teach",
     "category": "languages",
     "subcategory": "english",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_002",
-    "createdAt": "2021-03-06T11:15:00Z"
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_001",
+    "createdAt": "2021-09-16T17:48:00Z"
   },
   {
-    "id": "skill_005",
-    "title": "Хранение вещей",
-    "description": "Привет! Хочу научиться лучше организовывать хранение вещей дома. Интересуют удобные системы, которые помогают поддерживать порядок, экономить место и не тратить время на поиски нужных вещей.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "storage",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_002",
-    "createdAt": "2021-03-14T18:30:00Z"
-  },
-  {
-    "id": "skill_006",
-    "title": "Физические тренировки",
-    "description": "Привет! Хочу научиться выстраивать эффективные тренировки и заниматься регулярно. Интересует техника упражнений, безопасная нагрузка и развитие силы и выносливости без риска для здоровья.",
+    "id": "skill_003",
+    "title": "Тренировки после сидячей работы",
+    "description": "После десяти лет за ноутбуком спина напоминает о себе каждый вечер. Хочу понять, с каких упражнений начать дома, чтобы не бросить через две недели и не сорвать поясницу.",
     "type": "learn",
     "category": "health",
     "subcategory": "fitness",
     "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_002",
-    "createdAt": "2021-03-26T08:20:00Z"
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_001",
+    "createdAt": "2021-10-21T23:36:00Z"
   },
   {
-    "id": "skill_007",
-    "title": "Продажи и переговоры",
-    "description": "Привет! Я несколько лет работаю в продажах и регулярно веду переговоры с клиентами и партнёрами. Научу лучше понимать собеседника, уверенно презентовать свои идеи и договариваться с выгодой для обеих сторон.",
+    "id": "skill_004",
+    "title": "Переговоры без давления",
+    "description": "Начинал с холодных звонков, сейчас веду отдел продаж из двенадцати человек. Покажу, как готовиться к переговорам, слышать настоящие возражения клиента и спокойно доводить сделку до подписи, не превращаясь в назойливого продавца.",
     "type": "teach",
     "category": "business",
     "subcategory": "sales",
     "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_003",
-    "createdAt": "2021-03-16T10:40:00Z"
+    "imageUrl": "/db/images/skills/business-sales.svg",
+    "photos": [
+      "/db/images/skills/business-sales.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-marketing.svg"
+    ],
+    "authorId": "user_002",
+    "createdAt": "2021-05-20T17:57:00Z"
   },
   {
-    "id": "skill_008",
-    "title": "Личный бренд",
-    "description": "Привет! Я развиваю личный бренд и знаю, как важно грамотно рассказывать о своих навыках. Помогу разобраться с позиционированием, контентом и тем, как выстраивать доверие аудитории естественным способом.",
+    "id": "skill_005",
+    "title": "Личный бренд на LinkedIn",
+    "description": "Хочу писать о профессии так, чтобы меня читали коллеги, а не только мама. Нужен человек, который поможет нащупать свои темы и перестать удалять посты через час после публикации.",
     "type": "learn",
     "category": "business",
     "subcategory": "personal-brand",
     "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_003",
-    "createdAt": "2021-03-28T17:10:00Z"
+    "imageUrl": "/db/images/skills/business-personal-brand.svg",
+    "photos": [
+      "/db/images/skills/business-personal-brand.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_002",
+    "createdAt": "2021-07-28T08:42:00Z"
   },
   {
-    "id": "skill_009",
-    "title": "Йога и медитация",
-    "description": "Привет! Хочу познакомиться с практиками йоги и медитации. Хочется научиться расслабляться, лучше справляться со стрессом и сделать такие занятия регулярной частью своей жизни.",
+    "id": "skill_006",
+    "title": "Монтаж коротких роликов",
+    "description": "Снимаю на телефон короткие разборы для команды, но всё заканчивается на стадии «обрезал начало и конец». Хочу научиться собирать ролик с динамикой, субтитрами и нормальным звуком.",
     "type": "learn",
-    "category": "health",
-    "subcategory": "yoga",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_003",
-    "createdAt": "2021-04-09T12:05:00Z"
+    "category": "art",
+    "subcategory": "video-editing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-video-editing.svg",
+    "photos": [
+      "/db/images/skills/art-video-editing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_002",
+    "createdAt": "2022-01-14T14:39:00Z"
   },
   {
-    "id": "skill_010",
-    "title": "Фотография",
-    "description": "Привет! Я занимаюсь фотографией уже несколько лет — снимаю портреты, городские прогулки и путешествия. Научу работать со светом, композицией и настройками камеры, чтобы фотографии выглядели живыми и выразительными.",
+    "id": "skill_007",
+    "title": "Портрет на телефон",
+    "description": "Снимаю людей восемь лет и точно знаю: дело не в камере. Научу видеть свет в обычной квартире, выстраивать кадр и работать с человеком так, чтобы он расслабился и получились живые фотографии, а не паспортные снимки.",
     "type": "teach",
     "category": "art",
     "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_004",
-    "createdAt": "2021-05-02T14:30:00Z"
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-creative-writing.svg"
+    ],
+    "authorId": "user_003",
+    "createdAt": "2021-07-16T22:02:00Z"
   },
   {
-    "id": "skill_011",
-    "title": "Маркетинг и реклама",
-    "description": "Привет! Хочу лучше разобраться в маркетинге и рекламе, чтобы понимать, как привлекать клиентов и эффективно продвигать проекты. Интересуют современные инструменты продвижения, аналитика и работа с аудиторией.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "marketing",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_004",
-    "createdAt": "2021-05-18T18:10:00Z"
-  },
-  {
-    "id": "skill_012",
-    "title": "Личный бренд",
-    "description": "Привет! Хочу научиться развивать личный бренд и увереннее рассказывать о своих навыках. Интересует позиционирование, работа с контентом и создание доверия у аудитории.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_004",
-    "createdAt": "2021-06-02T10:40:00Z"
-  },
-  {
-    "id": "skill_013",
-    "title": "Рисование и иллюстрация",
-    "description": "Привет! Я рисую уже много лет — от быстрых скетчей до цифровых иллюстраций. Помогу разобраться с пропорциями, композицией, цветом и научиться получать удовольствие от процесса рисования.",
+    "id": "skill_008",
+    "title": "Фотозона своими руками",
+    "description": "Собираю декорации для съёмок из того, что продаётся в строительном магазине за копейки. Покажу, как сделать фон, рассеиватель и пару реквизитов, которые превратят угол комнаты в аккуратную студию.",
     "type": "teach",
-    "category": "art",
-    "subcategory": "drawing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_005",
-    "createdAt": "2021-06-07T15:20:00Z"
-  },
-  {
-    "id": "skill_014",
-    "title": "Декор и DIY",
-    "description": "Привет! Люблю создавать уют своими руками и постоянно пробую новые DIY-проекты. Покажу, как работать с материалами, сочетать цвета и делать красивые вещи для дома без больших затрат.",
-    "type": "learn",
     "category": "art",
     "subcategory": "decor-diy",
     "tags": "творчество",
-    "imageUrl": null,
-    "authorId": "user_005",
-    "createdAt": "2021-06-20T11:35:00Z"
+    "imageUrl": "/db/images/skills/art-decor-diy.svg",
+    "photos": [
+      "/db/images/skills/art-decor-diy.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-music.svg"
+    ],
+    "authorId": "user_003",
+    "createdAt": "2021-10-06T11:50:00Z"
   },
   {
-    "id": "skill_015",
-    "title": "Английский",
-    "description": "Привет! Хочу улучшить свой английский и свободнее общаться в путешествиях и на работе. Интересует разговорная практика, словарный запас и понимание живой речи.",
+    "id": "skill_009",
+    "title": "Английский для переписки с клиентами",
+    "description": "Всё чаще пишут иностранные заказчики, а я по полчаса собираю письмо из шаблонов и гугл-переводчика. Хочу спокойно отвечать на запросы и обсуждать условия съёмки без страха написать глупость.",
     "type": "learn",
     "category": "languages",
     "subcategory": "english",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_005",
-    "createdAt": "2021-07-01T09:15:00Z"
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_003",
+    "createdAt": "2022-02-08T17:55:00Z"
   },
   {
-    "id": "skill_016",
-    "title": "Проектное управление",
-    "description": "Привет! Я управляю проектами уже несколько лет и знаю, как организовать работу команды и довести задачи до результата. Научу планировать этапы, расставлять приоритеты и эффективно управлять сроками.",
+    "id": "skill_010",
+    "title": "Проект без хаоса",
+    "description": "Веду проекты в разработке десять лет — от маленьких сайтов до систем на сотню человек. Разберём, как раскладывать задачу на этапы, договариваться о сроках и вовремя замечать, что проект поехал, пока это ещё можно исправить.",
     "type": "teach",
     "category": "business",
     "subcategory": "project-management",
     "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_006",
-    "createdAt": "2021-06-20T10:25:00Z"
+    "imageUrl": "/db/images/skills/business-project-management.svg",
+    "photos": [
+      "/db/images/skills/business-project-management.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-marketing.svg"
+    ],
+    "authorId": "user_004",
+    "createdAt": "2021-11-10T15:09:00Z"
   },
   {
-    "id": "skill_017",
-    "title": "Управление командой",
-    "description": "Привет! У меня есть опыт руководства командами и организации совместной работы. Поделюсь тем, как мотивировать людей, выстраивать процессы и решать рабочие задачи без лишнего стресса.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "team-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_006",
-    "createdAt": "2021-07-05T13:50:00Z"
-  },
-  {
-    "id": "skill_018",
-    "title": "Осознанность",
-    "description": "Привет! Хочу научиться быть более осознанным в повседневной жизни. Интересуют практики, которые помогают лучше справляться со стрессом, концентрироваться и сохранять внутреннее спокойствие.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "mindfulness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_006",
-    "createdAt": "2021-07-18T08:40:00Z"
-  },
-  {
-    "id": "skill_019",
-    "title": "Баланс жизни и работы",
-    "description": "Привет! Хочу научиться лучше распределять время между работой и личной жизнью. Интересуют практические привычки, которые помогают избежать выгорания и сохранять энергию.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "work-life-balance",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_006",
-    "createdAt": "2021-08-01T19:10:00Z"
-  },
-  {
-    "id": "skill_020",
-    "title": "Японский",
-    "description": "Привет! Я изучаю и использую японский язык уже много лет. Помогу освоить основы, разобраться с письменностью, улучшить разговорные навыки и увереннее чувствовать себя при общении на японском.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "japanese",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_007",
-    "createdAt": "2021-07-30T12:15:00Z"
-  },
-  {
-    "id": "skill_021",
-    "title": "Китайский",
-    "description": "Всем привет! Хочу начать изучать китайский язык и постепенно выйти на уверенное общение. Интересуют разговорная практика, базовая грамматика и понимание культуры Китая.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "chinese",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_007",
-    "createdAt": "2021-08-16T18:20:00Z"
-  },
-  {
-    "id": "skill_022",
-    "title": "Приготовление еды",
-    "description": "Привет! Я люблю готовить и постоянно пробую новые рецепты — от простых домашних блюд до необычных кухонь мира. Покажу, как готовить вкусно, быстро и без лишних сложностей.",
-    "type": "teach",
-    "category": "home",
-    "subcategory": "cooking",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_008",
-    "createdAt": "2021-08-18T11:40:00Z"
-  },
-  {
-    "id": "skill_023",
-    "title": "Французский",
-    "description": "Здравствуйте! Хочу выучить французский язык для путешествий и общения. Интересуют произношение, разговорная практика и изучение языка в комфортном темпе.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "french",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_008",
-    "createdAt": "2021-09-02T15:15:00Z"
-  },
-  {
-    "id": "skill_024",
-    "title": "Испанский",
-    "description": "Добрый день! Хочу освоить испанский язык с нуля и научиться свободнее понимать речь носителей. Будет здорово найти человека, который поможет сделать обучение интересным и регулярным.",
+    "id": "skill_011",
+    "title": "Испанский с нуля",
+    "description": "Через год планирую пожить пару месяцев в Валенсии и не хочу объясняться жестами. Начинаю с абсолютного нуля: нужен человек, готовый терпеливо ставить произношение и базовые фразы.",
     "type": "learn",
     "category": "languages",
     "subcategory": "spanish",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_008",
-    "createdAt": "2021-09-14T10:50:00Z"
+    "imageUrl": "/db/images/skills/languages-spanish.svg",
+    "photos": [
+      "/db/images/skills/languages-spanish.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_004",
+    "createdAt": "2022-02-13T03:59:00Z"
   },
   {
-    "id": "skill_025",
-    "title": "Коучинг",
-    "description": "Привет! Уже несколько лет помогаю людям находить цели, преодолевать внутренние барьеры и двигаться к результатам. Поделюсь рабочими инструментами постановки целей и личного развития.",
-    "type": "teach",
-    "category": "education",
-    "subcategory": "coaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_009",
-    "createdAt": "2021-10-02T09:30:00Z"
-  },
-  {
-    "id": "skill_026",
-    "title": "Личностное развитие",
-    "description": "Рад знакомству! Интересуюсь темой личностного роста уже много лет. Помогу разобраться с привычками, постановкой целей и поиском мотивации для постоянного развития.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "personal-development",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_009",
-    "createdAt": "2021-10-15T17:10:00Z"
-  },
-  {
-    "id": "skill_027",
-    "title": "Навыки преподавания",
-    "description": "Привет! Хочу научиться лучше объяснять материал и удерживать внимание учеников. Интересуют современные методы обучения, практика и обратная связь.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "teaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_009",
-    "createdAt": "2021-10-30T13:20:00Z"
-  },
-  {
-    "id": "skill_028",
-    "title": "Видеомонтаж",
-    "description": "Всем привет! Я давно занимаюсь монтажом видео — от коротких роликов до полноценных проектов. Покажу, как работать с монтажом, ритмом, переходами и делать видео, которое приятно смотреть.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "video-editing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_010",
-    "createdAt": "2021-10-27T18:05:00Z"
-  },
-  {
-    "id": "skill_029",
-    "title": "Музыка и звук",
-    "description": "Привет! Хочу лучше разбираться в работе со звуком и музыкой. Интересуют основы сведения, запись, обработка аудио и создание качественного звучания.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "music",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_010",
-    "createdAt": "2021-11-12T11:45:00Z"
-  },
-  {
-    "id": "skill_030",
-    "title": "Фотография",
-    "description": "Добрый день! Хочу научиться фотографировать так, чтобы снимки выглядели живыми и выразительными. Интересуют композиция, работа со светом и обработка фотографий.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_010",
-    "createdAt": "2021-11-28T09:10:00Z"
-  },
-  {
-    "id": "skill_031",
-    "title": "Домашние растения",
-    "description": "Приветствую! Уже несколько лет выращиваю комнатные растения и с удовольствием делюсь опытом. Расскажу, как правильно ухаживать за цветами, пересаживать их и создавать дома настоящий зеленый уголок.",
-    "type": "teach",
-    "category": "home",
-    "subcategory": "plants",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_011",
-    "createdAt": "2022-02-03T10:15:00Z"
-  },
-  {
-    "id": "skill_032",
-    "title": "Ремонт",
-    "description": "Привет! Хочу научиться делать домашний ремонт своими руками и разобраться в основных инструментах. Интересуют практические советы, которые пригодятся в обычной квартире.",
+    "id": "skill_012",
+    "title": "Быстрые ужины",
+    "description": "Умею жарить яичницу и заказывать доставку, на этом всё. Хочу освоить десяток простых ужинов, которые готовятся за полчаса после работы и не состоят из полуфабрикатов.",
     "type": "learn",
     "category": "home",
-    "subcategory": "repair",
+    "subcategory": "cooking",
     "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_011",
-    "createdAt": "2022-02-18T18:20:00Z"
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_004",
+    "createdAt": "2022-05-04T10:13:00Z"
   },
   {
-    "id": "skill_033",
-    "title": "Тайм-менеджмент",
-    "description": "Добрый день! Я давно использую техники управления временем и постоянно совершенствую свои привычки. Покажу, как планировать день, успевать больше и не перегружать себя лишними задачами.",
+    "id": "skill_013",
+    "title": "Скетчинг маркерами",
+    "description": "Рисую городские скетчи шесть лет и веду небольшие выездные занятия. Научу быстро схватывать форму, не бояться белого листа и за двадцать минут доводить набросок до аккуратной картинки — даже если вы рисовали только в школе.",
     "type": "teach",
-    "category": "business",
-    "subcategory": "time-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_012",
-    "createdAt": "2022-03-03T11:40:00Z"
+    "category": "art",
+    "subcategory": "drawing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-creative-writing.svg"
+    ],
+    "authorId": "user_005",
+    "createdAt": "2021-08-07T11:23:00Z"
   },
   {
-    "id": "skill_034",
-    "title": "Скорочтение",
-    "description": "Всем привет! Хочу научиться быстрее читать и лучше запоминать информацию. Интересуют упражнения, которые помогут увеличить скорость чтения без потери понимания текста.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "speed-reading",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_012",
-    "createdAt": "2022-03-16T16:05:00Z"
-  },
-  {
-    "id": "skill_035",
-    "title": "Навыки обучения",
-    "description": "Здравствуйте! Хочу разобраться, как учиться быстрее и эффективнее. Интересуют современные подходы к обучению, развитие памяти и умение применять знания на практике.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "learning-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_012",
-    "createdAt": "2022-03-28T09:50:00Z"
-  },
-  {
-    "id": "skill_036",
-    "title": "Китайский",
-    "description": "Рад знакомству! Я изучаю китайский язык уже много лет и продолжаю совершенствовать свои навыки. Помогу освоить основы, поставить произношение и начать уверенно общаться на повседневные темы.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "chinese",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_013",
-    "createdAt": "2022-04-04T12:30:00Z"
-  },
-  {
-    "id": "skill_037",
-    "title": "Английский",
-    "description": "Привет! Английский давно стал частью моей работы и путешествий. Помогу подтянуть разговорную речь, грамматику и уверенность в общении без скучных учебников.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "english",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_013",
-    "createdAt": "2022-04-18T18:10:00Z"
-  },
-  {
-    "id": "skill_038",
-    "title": "Японский",
-    "description": "Привет! Хочу начать изучать японский язык и разобраться в письменности, произношении и разговорной практике. Буду рад советам и совместному обучению.",
+    "id": "skill_014",
+    "title": "Японский для путешествия",
+    "description": "Знаю хирагану и десяток фраз из аниме — этого явно мало для поездки. Хочу дойти до уровня, когда смогу спросить дорогу, заказать еду и прочитать вывеску без словаря в руках.",
     "type": "learn",
     "category": "languages",
     "subcategory": "japanese",
     "tags": "языки",
-    "imageUrl": null,
+    "imageUrl": "/db/images/skills/languages-japanese.svg",
+    "photos": [
+      "/db/images/skills/languages-japanese.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_005",
+    "createdAt": "2021-11-22T23:17:00Z"
+  },
+  {
+    "id": "skill_015",
+    "title": "Йога для спины",
+    "description": "Провожу за планшетом по восемь часов, к вечеру шея каменная. Ищу человека, который покажет короткую безопасную последовательность на каждый день и проследит, чтобы я не делала её криво.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "yoga",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-yoga.svg",
+    "photos": [
+      "/db/images/skills/health-yoga.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_005",
+    "createdAt": "2021-12-28T05:39:00Z"
+  },
+  {
+    "id": "skill_016",
+    "title": "Мелкий ремонт дома",
+    "description": "Пятнадцать лет на стройке, дома чиню всё сам — от смесителя до сборки кухни. Покажу базовый набор инструментов и научу спокойно делать то, за что обычно платят мастеру: повесить полку, заменить розетку, устранить течь.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "repair",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-repair.svg",
+    "photos": [
+      "/db/images/skills/home-repair.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-cleaning.svg"
+    ],
+    "authorId": "user_006",
+    "createdAt": "2021-10-31T01:39:00Z"
+  },
+  {
+    "id": "skill_017",
+    "title": "Семейный бюджет",
+    "description": "Семь лет веду семейный бюджет в обычной таблице и давно закрыл вопрос с кредитами. Разберём ваши расходы, соберём подушку безопасности и научимся планировать крупные покупки без ощущения, что деньги исчезают сами.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "home-finance",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-home-finance.svg",
+    "photos": [
+      "/db/images/skills/home-home-finance.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-plants.svg"
+    ],
+    "authorId": "user_006",
+    "createdAt": "2022-02-28T12:35:00Z"
+  },
+  {
+    "id": "skill_018",
+    "title": "Английский для документации",
+    "description": "Всё чаще приходят проекты с англоязычной документацией, а я читаю их медленно и с подозрением. Хочу научиться уверенно разбирать технические тексты и переписываться с зарубежными поставщиками.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_006",
+    "createdAt": "2022-08-17T19:06:00Z"
+  },
+  {
+    "id": "skill_019",
+    "title": "Питание без диет",
+    "description": "Консультирую по питанию шесть лет и больше всего люблю разбирать реальный холодильник, а не идеальные схемы из интернета. Составим рацион под ваш график и бюджет, чтобы еда перестала быть источником вины.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "nutrition",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-nutrition.svg",
+    "photos": [
+      "/db/images/skills/health-nutrition.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-sleep.svg"
+    ],
+    "authorId": "user_007",
+    "createdAt": "2022-02-17T13:47:00Z"
+  },
+  {
+    "id": "skill_020",
+    "title": "Тексты для блога",
+    "description": "Веду блог о питании, но тексты получаются похожими на методичку. Хочу научиться писать живо, с историями из практики, и перестать бояться личных интонаций.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "creative-writing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-creative-writing.svg",
+    "photos": [
+      "/db/images/skills/art-creative-writing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_007",
+    "createdAt": "2022-06-30T23:46:00Z"
+  },
+  {
+    "id": "skill_021",
+    "title": "Немецкий для чтения",
+    "description": "Часть исследований по моей теме выходит на немецком, и переводчик заметно врёт в терминах. Нужен человек, который поможет собрать базовую грамматику и научит читать научные тексты.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "german",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-german.svg",
+    "photos": [
+      "/db/images/skills/languages-german.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_007",
+    "createdAt": "2022-11-03T06:25:00Z"
+  },
+  {
+    "id": "skill_022",
+    "title": "Гитара для начинающих",
+    "description": "Играю двадцать лет и учил друзей чаще, чем помню. За несколько встреч поставим правую руку, разберём базовые аккорды и бой — к концу вы сыграете две-три песни целиком, а не только вступление.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "music",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-music.svg",
+    "photos": [
+      "/db/images/skills/art-music.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-photography.svg"
+    ],
+    "authorId": "user_008",
+    "createdAt": "2021-10-25T15:50:00Z"
+  },
+  {
+    "id": "skill_023",
+    "title": "Съёмка и монтаж выступлений",
+    "description": "Записываю квартирники на две камеры, но на монтаже всё разваливается: звук отдельно, картинка отдельно, ритма нет. Хочу разобраться, как синхронизировать дорожки и собирать смотрибельное видео.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "video-editing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-video-editing.svg",
+    "photos": [
+      "/db/images/skills/art-video-editing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_008",
+    "createdAt": "2022-03-21T00:51:00Z"
+  },
+  {
+    "id": "skill_024",
+    "title": "Как объяснять понятно",
+    "description": "Пятнадцать лет в школе и три года в репетиторстве научили меня главному: объяснить можно почти всё, если найти верную опору. Разберём, как строить занятие, удерживать внимание и проверять, что человек действительно понял.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "teaching",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-teaching.svg",
+    "photos": [
+      "/db/images/skills/education-teaching.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-speed-reading.svg"
+    ],
+    "authorId": "user_009",
+    "createdAt": "2022-02-25T10:55:00Z"
+  },
+  {
+    "id": "skill_025",
+    "title": "Быстрое чтение без потери смысла",
+    "description": "Читаю профессиональную литературу пачками и давно отладила свою систему. Покажу, как работать с текстом на трёх скоростях, выделять структуру и запоминать прочитанное, а не гнаться за рекордами.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "speed-reading",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-speed-reading.svg",
+    "photos": [
+      "/db/images/skills/education-speed-reading.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-learning-skills.svg"
+    ],
+    "authorId": "user_009",
+    "createdAt": "2022-08-03T18:58:00Z"
+  },
+  {
+    "id": "skill_026",
+    "title": "Рисование для расслабления",
+    "description": "Всю жизнь работаю со словами и хочу наконец попробовать другой язык — визуальный. Без амбиций стать художником: интересно провести вечер с карандашом и увидеть хоть что-то похожее на задуманное.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "drawing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_009",
+    "createdAt": "2022-09-08T01:56:00Z"
+  },
+  {
+    "id": "skill_027",
+    "title": "Осознанность в школьном ритме",
+    "description": "К маю каждый год подхожу выжатой, а отпуск восстанавливает ровно на неделю. Ищу практики, которые встроятся в рабочий день между уроками, а не потребуют часа тишины.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "mindfulness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mindfulness.svg",
+    "photos": [
+      "/db/images/skills/health-mindfulness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_009",
+    "createdAt": "2023-02-10T19:16:00Z"
+  },
+  {
+    "id": "skill_028",
+    "title": "Тренировки для новичков",
+    "description": "Работаю тренером пять лет, до этого сам восстанавливался после травмы спины. Составлю понятную программу под ваш уровень и поставлю технику базовых упражнений так, чтобы вы ушли из зала без болей и с желанием вернуться.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "fitness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-mindfulness.svg"
+    ],
+    "authorId": "user_010",
+    "createdAt": "2022-01-26T18:27:00Z"
+  },
+  {
+    "id": "skill_029",
+    "title": "Питание для клиентов",
+    "description": "Клиенты постоянно спрашивают про еду, а я отвечаю общими словами и чувствую себя неловко. Хочу разобраться в базовых принципах, чтобы давать корректные рекомендации и понимать, где заканчивается моя зона ответственности.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "nutrition",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-nutrition.svg",
+    "photos": [
+      "/db/images/skills/health-nutrition.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_010",
+    "createdAt": "2022-04-21T05:28:00Z"
+  },
+  {
+    "id": "skill_030",
+    "title": "Расписание без окон",
+    "description": "Мой день разорван на тренировки с трёхчасовыми провалами между ними. Хочу собрать расписание, в котором остаётся место на собственные тренировки, учёбу и семью.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "time-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-time-management.svg",
+    "photos": [
+      "/db/images/skills/business-time-management.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_010",
+    "createdAt": "2022-08-24T15:36:00Z"
+  },
+  {
+    "id": "skill_031",
+    "title": "Английский для разговора",
+    "description": "Преподаю пять лет, из них два года работала с носителями в онлайн-школе. Строю занятия вокруг речи: вы говорите большую часть времени, а я аккуратно чиню грамматику по ходу и даю нормальные живые формулировки вместо учебных.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-french.svg"
+    ],
+    "authorId": "user_011",
+    "createdAt": "2022-06-28T06:29:00Z"
+  },
+  {
+    "id": "skill_032",
+    "title": "Сценическая речь",
+    "description": "Голос садится к третьему уроку подряд, а на записи я слышу монотонность. Хочу поставить дыхание и научиться держать внимание группы голосом, а не громкостью.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "acting",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-acting.svg",
+    "photos": [
+      "/db/images/skills/art-acting.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_011",
+    "createdAt": "2022-10-03T16:32:00Z"
+  },
+  {
+    "id": "skill_033",
+    "title": "Как собрать портфолио преподавателя",
+    "description": "Ученики приходят по сарафанному радио, но этого мало, чтобы выйти на частную практику. Ищу совета, как показать свой подход и не выглядеть как тысяча одинаковых анкет на бирже.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "personal-brand",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-personal-brand.svg",
+    "photos": [
+      "/db/images/skills/business-personal-brand.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_011",
+    "createdAt": "2022-12-23T02:49:00Z"
+  },
+  {
+    "id": "skill_034",
+    "title": "Готовка на неделю",
+    "description": "Живу одна, готовлю по настроению и в итоге ужинаю сыром с печеньем. Хочу научиться закупаться и готовить впрок, чтобы будни не упирались в вопрос «что есть».",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "cooking",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_011",
+    "createdAt": "2023-03-01T05:58:00Z"
+  },
+  {
+    "id": "skill_035",
+    "title": "Первый бизнес: с чего начать",
+    "description": "Первую кофейню я закрыл через год и потерял на этом все накопления, вторая работает четвёртый год. Разберём вашу идею до запуска: посчитаем экономику, найдём слабые места и решим, что проверить за небольшие деньги.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "entrepreneurship",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-entrepreneurship.svg",
+    "photos": [
+      "/db/images/skills/business-entrepreneurship.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-personal-brand.svg"
+    ],
+    "authorId": "user_012",
+    "createdAt": "2022-04-12T15:04:00Z"
+  },
+  {
+    "id": "skill_036",
+    "title": "Как не выгореть в своём деле",
+    "description": "Второй год живу в режиме «всё на мне» и стал раздражительным даже дома. Хочу поговорить с тем, кто проходил это, и найти способы снимать напряжение до того, как оно накопится.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "mental-health",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mental-health.svg",
+    "photos": [
+      "/db/images/skills/health-mental-health.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_012",
+    "createdAt": "2022-08-01T00:10:00Z"
+  },
+  {
+    "id": "skill_037",
+    "title": "Домашняя выпечка",
+    "description": "Пеку на заказ четыре года, начинала с подгоревших бисквитов на обычной духовке. Научу работать с тестом и понимать, почему выпечка не поднялась, — без профессионального оборудования и редких ингредиентов.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "cooking",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-cleaning.svg"
+    ],
     "authorId": "user_013",
-    "createdAt": "2022-05-02T13:45:00Z"
+    "createdAt": "2022-07-21T23:39:00Z"
+  },
+  {
+    "id": "skill_038",
+    "title": "Французский для кондитера",
+    "description": "Лучшие учебники по кондитерке — французские, а я читаю их через силу со словарём. Хочу освоить базу и профессиональную лексику, чтобы понимать рецепты и видео без перевода.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "french",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-french.svg",
+    "photos": [
+      "/db/images/skills/languages-french.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_013",
+    "createdAt": "2022-11-22T07:47:00Z"
   },
   {
     "id": "skill_039",
-    "title": "Резюме и собеседование",
-    "description": "Здравствуйте! Уже несколько лет помогаю людям готовиться к поиску работы. Подскажу, как составить сильное резюме, подготовиться к собеседованию и чувствовать себя увереннее при общении с работодателем.",
+    "title": "Съёмка десертов",
+    "description": "Мои торты в жизни выглядят лучше, чем на фото, и это бьёт по заказам. Нужен человек, который поставит съёмку у окна и объяснит, что делать с тенями и фоном.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "photography",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_013",
+    "createdAt": "2023-05-11T18:22:00Z"
+  },
+  {
+    "id": "skill_040",
+    "title": "Первый год руководителя",
+    "description": "Вырос из инженера в руководителя отдела и помню, как тяжело даётся первый год. Разберём сложные разговоры с сотрудниками, обратную связь и делегирование — то, чему не учат до назначения, а спрашивают сразу.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "team-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-team-management.svg",
+    "photos": [
+      "/db/images/skills/business-team-management.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-resume.svg"
+    ],
+    "authorId": "user_014",
+    "createdAt": "2022-10-08T08:14:00Z"
+  },
+  {
+    "id": "skill_041",
+    "title": "Резюме глазами нанимающего",
+    "description": "За шесть лет прочитал больше тысячи резюме и провёл под триста собеседований. Пройдёмся по вашему тексту, уберём воду и переформулируем опыт так, чтобы нанимающий увидел результат за тридцать секунд.",
     "type": "teach",
     "category": "business",
     "subcategory": "resume",
     "tags": "бизнес",
-    "imageUrl": null,
+    "imageUrl": "/db/images/skills/business-resume.svg",
+    "photos": [
+      "/db/images/skills/business-resume.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-personal-brand.svg"
+    ],
     "authorId": "user_014",
-    "createdAt": "2022-05-06T10:20:00Z"
-  },
-  {
-    "id": "skill_040",
-    "title": "Продажи и переговоры",
-    "description": "Привет! Хочу научиться увереннее вести переговоры и лучше понимать техники продаж. Интересует практика, реальные кейсы и развитие навыков общения.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "sales",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_014",
-    "createdAt": "2022-05-22T16:15:00Z"
-  },
-  {
-    "id": "skill_041",
-    "title": "Осознанность",
-    "description": "Привет! Уже несколько лет практикую осознанность в повседневной жизни и замечаю, как маленькие привычки помогают меньше стрессовать. Покажу простые техники концентрации, дыхательные практики и способы стать спокойнее без сложных методик.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "mindfulness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_015",
-    "createdAt": "2022-06-03T10:25:00Z"
+    "createdAt": "2023-02-21T15:24:00Z"
   },
   {
     "id": "skill_042",
-    "title": "Йога и медитация",
-    "description": "Рад знакомству! Я давно занимаюсь йогой и медитацией для себя и с удовольствием поделюсь опытом. Помогу освоить базовые упражнения, научиться расслабляться и сделать практику частью повседневной жизни.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "yoga",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_015",
-    "createdAt": "2022-06-15T18:15:00Z"
-  },
-  {
-    "id": "skill_043",
-    "title": "Ментальное здоровье",
-    "description": "Всем привет! Хочу лучше разобраться в теме ментального здоровья и научиться поддерживать эмоциональное равновесие. Интересуют полезные привычки, работа со стрессом и профилактика выгорания.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "mental-health",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_015",
-    "createdAt": "2022-06-28T09:40:00Z"
-  },
-  {
-    "id": "skill_044",
-    "title": "Домашние финансы",
-    "description": "Здравствуйте! Уже давно веду личный бюджет и помогаю близким грамотнее обращаться с деньгами. Расскажу, как планировать расходы, копить на цели и спокойно управлять своими финансами.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "home-finance",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_016",
-    "createdAt": "2022-06-13T12:20:00Z"
-  },
-  {
-    "id": "skill_045",
-    "title": "Предпринимательство",
-    "description": "Привет! Хочу лучше разобраться в предпринимательстве и понять, как запускать собственные проекты. Интересует поиск первых клиентов, проверка идей и развитие бизнеса без лишних ошибок.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_016",
-    "createdAt": "2022-06-26T17:50:00Z"
-  },
-  {
-    "id": "skill_046",
-    "title": "Музыка и звук",
-    "description": "Добрый день! Я давно работаю со звуком и музыкой — от домашних записей до небольших студийных проектов. Помогу разобраться с записью, обработкой аудио и созданием качественного звучания.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "music",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_017",
-    "createdAt": "2022-08-24T11:10:00Z"
-  },
-  {
-    "id": "skill_047",
-    "title": "Видеомонтаж",
-    "description": "Приветствую! Хочу научиться монтировать видео и создавать ролики, которые интересно смотреть. Интересуют работа с программами, монтаж, цветокоррекция и звук.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "video-editing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_017",
-    "createdAt": "2022-09-06T14:25:00Z"
-  },
-  {
-    "id": "skill_048",
-    "title": "Немецкий",
-    "description": "Привет! Я изучаю немецкий язык уже несколько лет и активно использую его в общении. Помогу разобраться с грамматикой, расширить словарный запас и преодолеть языковой барьер.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "german",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_018",
-    "createdAt": "2022-09-22T09:35:00Z"
-  },
-  {
-    "id": "skill_049",
-    "title": "Французский",
-    "description": "Привет! Хочу выучить французский язык и чувствовать себя увереннее в разговоре. Интересуют живая практика, правильное произношение и полезная лексика для путешествий.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "french",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_018",
-    "createdAt": "2022-10-03T19:05:00Z"
-  },
-  {
-    "id": "skill_050",
-    "title": "Физические тренировки",
-    "description": "Привет! Уже несколько лет регулярно тренируюсь и изучаю, как делать это безопасно и эффективно. Покажу базовую технику упражнений, помогу составить программу и сделать спорт привычкой.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "fitness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_019",
-    "createdAt": "2022-10-20T10:10:00Z"
-  },
-  {
-    "id": "skill_051",
-    "title": "Питание и ЗОЖ",
-    "description": "Всем привет! Хочу научиться лучше разбираться в питании и здоровом образе жизни. Интересуют простые привычки, которые помогут чувствовать себя лучше, поддерживать энергию и составлять сбалансированный рацион без строгих ограничений.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "nutrition",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_019",
-    "createdAt": "2022-11-03T16:40:00Z"
-  },
-  {
-    "id": "skill_052",
-    "title": "Креативное письмо",
-    "description": "Привет! Уже несколько лет пишу рассказы, статьи и тексты для разных проектов. Помогу развить навык письма, находить идеи, создавать живых персонажей и писать так, чтобы текст хотелось дочитать до конца.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "creative-writing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_020",
-    "createdAt": "2023-01-05T10:20:00Z"
-  },
-  {
-    "id": "skill_053",
-    "title": "Актёрское мастерство",
-    "description": "Рад знакомству! Хочу развить навыки актерского мастерства, научиться увереннее выступать перед людьми и лучше работать с эмоциями. Интересуют упражнения, сценическая речь и практика.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "acting",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_020",
-    "createdAt": "2023-01-18T13:45:00Z"
-  },
-  {
-    "id": "skill_054",
-    "title": "Уборка и организация",
-    "description": "Здравствуйте! Я люблю порядок и уже давно выстроила систему хранения дома, которая действительно работает. Покажу, как организовать пространство, избавиться от лишнего и поддерживать чистоту без постоянной уборки.",
-    "type": "teach",
-    "category": "home",
-    "subcategory": "cleaning",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_021",
-    "createdAt": "2023-01-12T11:10:00Z"
-  },
-  {
-    "id": "skill_055",
-    "title": "Домашние растения",
-    "description": "Добрый день! Хочу научиться правильно ухаживать за комнатными растениями и разобраться, какие условия подходят разным видам. Интересуют практические советы для начинающих.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "plants",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_021",
-    "createdAt": "2023-01-24T18:20:00Z"
-  },
-  {
-    "id": "skill_056",
-    "title": "Навыки преподавания",
-    "description": "Приветствую! Несколько лет обучаю людей и постоянно совершенствую свои методики. Поделюсь тем, как объяснять сложные темы простыми словами, удерживать внимание и делать обучение интересным.",
-    "type": "teach",
-    "category": "education",
-    "subcategory": "teaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_022",
-    "createdAt": "2023-01-15T09:40:00Z"
-  },
-  {
-    "id": "skill_057",
-    "title": "Коучинг",
-    "description": "Привет! Хочу глубже разобраться в коучинге и научиться задавать вопросы, которые действительно помогают людям находить решения. Интересует практика и современные подходы.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "coaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_022",
-    "createdAt": "2023-01-29T16:15:00Z"
-  },
-  {
-    "id": "skill_058",
-    "title": "Личностное развитие",
-    "description": "Всем привет! Хочу лучше разобраться в личностном развитии и научиться выстраивать полезные привычки. Интересуют книги, практики и опыт людей, которым удалось изменить свою жизнь.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "personal-development",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_022",
-    "createdAt": "2023-02-08T12:30:00Z"
-  },
-  {
-    "id": "skill_059",
-    "title": "Испанский",
-    "description": "Привет! Я свободно общаюсь на испанском и продолжаю использовать его в работе и путешествиях. Помогу освоить разговорную речь, грамматику и сделать изучение языка интересным и понятным.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "spanish",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_023",
-    "createdAt": "2023-02-20T10:50:00Z"
-  },
-  {
-    "id": "skill_060",
-    "title": "Английский",
-    "description": "Привет! Хочу подтянуть английский язык для путешествий, работы и общения. Особенно интересует разговорная практика и расширение словарного запаса без скучной зубрежки.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "english",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_023",
-    "createdAt": "2023-03-03T18:10:00Z"
-  },
-  {
-    "id": "skill_061",
-    "title": "Маркетинг и реклама",
-    "description": "Привет! Уже несколько лет работаю с продвижением проектов и знаю, как находить клиентов даже при небольшом бюджете. Помогу разобраться в рекламе, аналитике, позиционировании и выбрать инструменты, которые действительно работают.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "marketing",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_024",
-    "createdAt": "2023-03-22T11:20:00Z"
-  },
-  {
-    "id": "skill_062",
-    "title": "Видеомонтаж",
-    "description": "Здравствуйте! Хочу научиться профессионально монтировать видео и создавать ролики, которые приятно смотреть. Интересуют современные программы, монтаж, работа со звуком и цветом.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "video-editing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_024",
-    "createdAt": "2023-04-04T16:45:00Z"
-  },
-  {
-    "id": "skill_063",
-    "title": "Фотография",
-    "description": "Всем привет! Хочу научиться делать красивые фотографии и лучше понимать композицию, работу со светом и обработку снимков. Буду рад практическим советам и совместной практике.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_024",
-    "createdAt": "2023-04-18T09:30:00Z"
-  },
-  {
-    "id": "skill_064",
-    "title": "Ремонт",
-    "description": "Рад знакомству! Уже давно занимаюсь ремонтом квартиры своими руками и постоянно осваиваю новые навыки. Покажу, как пользоваться инструментами, выполнять базовые работы и избегать распространенных ошибок.",
-    "type": "teach",
-    "category": "home",
-    "subcategory": "repair",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_025",
-    "createdAt": "2023-05-14T10:15:00Z"
-  },
-  {
-    "id": "skill_065",
-    "title": "Декор и DIY",
-    "description": "Добрый день! Хочу научиться создавать уют своими руками и делать красивые вещи для дома. Интересуют простые DIY-проекты, работа с материалами и идеи для декора.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "decor-diy",
-    "tags": "творчество",
-    "imageUrl": null,
-    "authorId": "user_025",
-    "createdAt": "2023-05-28T17:20:00Z"
-  },
-  {
-    "id": "skill_066",
-    "title": "Баланс жизни и работы",
-    "description": "Приветствую! За последние годы я научился грамотно распределять время между работой, семьей и отдыхом. Поделюсь привычками и подходами, которые помогают не выгорать и сохранять продуктивность.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "work-life-balance",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_026",
-    "createdAt": "2023-07-03T12:40:00Z"
-  },
-  {
-    "id": "skill_067",
-    "title": "Тайм-менеджмент",
-    "description": "Привет! Хочу лучше организовывать свое время и научиться успевать больше без постоянной спешки. Интересуют работающие системы планирования и личной продуктивности.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "time-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_026",
-    "createdAt": "2023-07-18T08:50:00Z"
-  },
-  {
-    "id": "skill_068",
-    "title": "Подготовка к экзаменам (IELTS, TOEFL)",
-    "description": "Привет! Я помог уже многим подготовиться к международным экзаменам по английскому языку. Подскажу, как эффективно готовиться, избегать типичных ошибок и уверенно чувствовать себя на экзамене.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "ielts-toefl",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_027",
-    "createdAt": "2023-07-21T11:35:00Z"
-  },
-  {
-    "id": "skill_069",
-    "title": "Английский",
-    "description": "Здравствуйте! Хочу улучшить разговорный английский и чувствовать себя увереннее при общении. Интересует практика, расширение словарного запаса и понимание живой речи.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "english",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_027",
-    "createdAt": "2023-08-05T14:10:00Z"
-  },
-  {
-    "id": "skill_070",
-    "title": "Навыки обучения",
-    "description": "Привет! Хочу научиться учиться быстрее и эффективнее, лучше запоминать информацию и применять знания на практике. Интересуют современные методики обучения и развитие памяти.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "learning-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_027",
-    "createdAt": "2023-08-17T18:30:00Z"
-  },
-  {
-    "id": "skill_071",
-    "title": "Скорочтение",
-    "description": "Привет! Уже давно использую техники скорочтения в учебе и работе. Покажу, как читать быстрее, лучше запоминать информацию и не терять понимание текста.",
-    "type": "teach",
-    "category": "education",
-    "subcategory": "speed-reading",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_028",
-    "createdAt": "2023-08-18T10:25:00Z"
-  },
-  {
-    "id": "skill_072",
-    "title": "Когнитивные техники",
-    "description": "Добрый день! Хочу научиться лучше концентрироваться, быстрее принимать решения и эффективнее работать с информацией. Интересуют практические упражнения для развития мышления.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "cognitive-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_028",
-    "createdAt": "2023-09-03T16:40:00Z"
-  },
-  {
-    "id": "skill_073",
-    "title": "Личный бренд",
-    "description": "Приветствую! Несколько лет развиваю личный бренд и знаю, как рассказывать о своих навыках так, чтобы это привлекало людей и новые возможности. Помогу с позиционированием, контентом и развитием профессионального образа.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_029",
-    "createdAt": "2023-09-12T11:20:00Z"
-  },
-  {
-    "id": "skill_074",
-    "title": "Предпринимательство",
-    "description": "Всем привет! Хочу разобраться, как запускать собственные проекты, искать клиентов и выстраивать процессы без лишних ошибок. Интересует опыт людей, которые уже прошли этот путь.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_029",
-    "createdAt": "2023-09-27T14:55:00Z"
-  },
-  {
-    "id": "skill_075",
-    "title": "Французский",
-    "description": "Здравствуйте! Уже несколько лет изучаю и использую французский язык в путешествиях и общении. Помогу освоить разговорную речь, произношение и уверенно чувствовать себя в бытовых ситуациях.",
-    "type": "teach",
-    "category": "languages",
-    "subcategory": "french",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_030",
-    "createdAt": "2023-11-02T09:15:00Z"
-  },
-  {
-    "id": "skill_076",
-    "title": "Испанский",
-    "description": "Привет! Испанский давно стал частью моей жизни — от путешествий до общения с носителями языка. Помогу освоить базовую грамматику, разговорную речь и уверенно начать говорить.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "spanish",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_030",
-    "createdAt": "2023-11-15T17:40:00Z"
-  },
-  {
-    "id": "skill_077",
-    "title": "Немецкий",
-    "description": "Рад знакомству! Хочу выучить немецкий язык для путешествий и общения. Интересует понятное объяснение грамматики и регулярная разговорная практика.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "german",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_030",
-    "createdAt": "2023-11-28T13:10:00Z"
-  },
-  {
-    "id": "skill_078",
-    "title": "Арт-терапия",
-    "description": "Привет! Несколько лет использую творчество как способ расслабиться, лучше понимать свои эмоции и восстанавливать внутренний баланс. Покажу простые практики, которые не требуют художественного опыта.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "art-therapy",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_031",
-    "createdAt": "2024-02-02T12:30:00Z"
-  },
-  {
-    "id": "skill_079",
-    "title": "Рисование и иллюстрация",
-    "description": "Привет! Хочу научиться рисовать увереннее и разобраться с композицией, цветом и пропорциями. Особенно интересно найти собственный стиль и получать удовольствие от процесса.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "drawing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_031",
-    "createdAt": "2024-02-18T15:20:00Z"
-  },
-  {
-    "id": "skill_080",
-    "title": "Навыки обучения",
-    "description": "Здравствуйте! Я много экспериментировал с разными подходами к обучению и нашел методы, которые помогают запоминать информацию быстрее. Поделюсь техниками, которые легко применять каждый день.",
-    "type": "teach",
-    "category": "education",
-    "subcategory": "learning-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_032",
-    "createdAt": "2024-03-19T11:45:00Z"
-  },
-  {
-    "id": "skill_081",
-    "title": "Скорочтение",
-    "description": "Добрый день! Хочу научиться читать быстрее без потери понимания текста. Интересуют практические упражнения, развитие внимания и техники эффективного запоминания.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "speed-reading",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_032",
-    "createdAt": "2024-04-02T09:25:00Z"
-  },
-  {
-    "id": "skill_082",
-    "title": "Когнитивные техники",
-    "description": "Привет! Хочу лучше понимать, как тренировать память, внимание и мышление. Будет интересно освоить техники, которые помогают быстрее учиться и легче решать сложные задачи.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "cognitive-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_032",
-    "createdAt": "2024-04-16T18:10:00Z"
-  },
-  {
-    "id": "skill_083",
-    "title": "Продажи и переговоры",
-    "description": "Привет! Уже несколько лет работаю с продажами и регулярно веду переговоры с клиентами. Помогу увереннее общаться, выявлять потребности собеседника и достигать взаимовыгодных договоренностей.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "sales",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_033",
-    "createdAt": "2024-05-12T10:30:00Z"
-  },
-  {
-    "id": "skill_084",
-    "title": "Личный бренд",
-    "description": "Здравствуйте! Хочу научиться грамотно рассказывать о себе и развивать личный бренд. Интересуют позиционирование, контент и работа с профессиональной репутацией.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_033",
-    "createdAt": "2024-05-27T14:15:00Z"
-  },
-  {
-    "id": "skill_085",
-    "title": "Маркетинг и реклама",
-    "description": "Всем привет! Хочу разобраться, как привлекать клиентов и продвигать проекты в интернете. Интересуют современные инструменты рекламы, аналитика и практические кейсы.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "marketing",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_033",
-    "createdAt": "2024-06-09T17:20:00Z"
-  },
-  {
-    "id": "skill_086",
-    "title": "Домашние растения",
-    "description": "Приветствую! Уже несколько лет выращиваю комнатные растения и постоянно пополняю свою домашнюю коллекцию. Расскажу, как правильно ухаживать за растениями и создавать для них комфортные условия.",
-    "type": "teach",
-    "category": "home",
-    "subcategory": "plants",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_034",
-    "createdAt": "2024-08-03T11:40:00Z"
-  },
-  {
-    "id": "skill_087",
-    "title": "Приготовление еды",
-    "description": "Рад знакомству! Люблю готовить и постоянно пробовать новые рецепты. Покажу, как готовить вкусные домашние блюда без сложных ингредиентов и проводить меньше времени на кухне.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "cooking",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_034",
-    "createdAt": "2024-08-19T18:05:00Z"
-  },
-  {
-    "id": "skill_088",
-    "title": "Уборка и организация",
-    "description": "Привет! Хочу научиться поддерживать порядок дома без лишних усилий. Интересуют удобные системы хранения и привычки, которые помогают экономить время.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "cleaning",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_034",
-    "createdAt": "2024-09-01T09:55:00Z"
-  },
-  {
-    "id": "skill_089",
-    "title": "Когнитивные техники",
-    "description": "Привет! Я давно интересуюсь развитием памяти и внимания и регулярно использую различные техники на практике. Покажу упражнения, которые помогают мыслить быстрее и концентрироваться лучше.",
-    "type": "teach",
-    "category": "education",
-    "subcategory": "cognitive-skills",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_035",
-    "createdAt": "2024-09-03T13:45:00Z"
-  },
-  {
-    "id": "skill_090",
-    "title": "Осознанность",
-    "description": "Добрый день! Хочу научиться лучше справляться со стрессом и жить более осознанно. Интересуют практики, которые помогают сохранять спокойствие и концентрацию в течение дня.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "mindfulness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_035",
-    "createdAt": "2024-09-18T16:35:00Z"
-  },
-  {
-    "id": "skill_091",
-    "title": "Ментальное здоровье",
-    "description": "Привет! Несколько лет изучаю темы эмоционального благополучия и здоровых привычек. Поделюсь простыми практиками, которые помогают лучше понимать себя, справляться со стрессом и поддерживать внутренний баланс.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "mental-health",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_036",
-    "createdAt": "2024-10-02T10:20:00Z"
-  },
-  {
-    "id": "skill_092",
-    "title": "Йога и медитация",
-    "description": "Здравствуйте! Хочу освоить йогу и медитацию, чтобы стать спокойнее, улучшить гибкость и научиться расслабляться после насыщенного дня. Интересуют занятия для начинающих.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "yoga",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_036",
-    "createdAt": "2024-10-15T18:30:00Z"
-  },
-  {
-    "id": "skill_093",
-    "title": "Сон и восстановление",
-    "description": "Всем привет! Хочу разобраться, как улучшить качество сна и быстрее восстанавливаться после работы и тренировок. Интересуют полезные привычки и научный подход.",
+    "title": "Сон при ненормированном графике",
+    "description": "Созвоны с другими часовыми поясами сдвинули мой режим, и теперь я засыпаю под утро. Хочу вернуть нормальный сон без снотворного и понять, что реально работает, а что миф.",
     "type": "learn",
     "category": "health",
     "subcategory": "sleep",
     "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_036",
-    "createdAt": "2024-10-29T09:45:00Z"
+    "imageUrl": "/db/images/skills/health-sleep.svg",
+    "photos": [
+      "/db/images/skills/health-sleep.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_014",
+    "createdAt": "2023-06-27T02:08:00Z"
   },
   {
-    "id": "skill_094",
-    "title": "Актёрское мастерство",
-    "description": "Привет! Уже давно занимаюсь актерским мастерством и люблю выступать перед публикой. Помогу раскрепоститься, работать с голосом, эмоциями и чувствовать себя увереннее на сцене и в жизни.",
+    "id": "skill_043",
+    "title": "Йога для начинающих",
+    "description": "Преподаю четыре года и работаю в основном с людьми из офисов и их зажатыми плечами. Соберём короткую практику под ваше тело и график, с честными объяснениями, зачем нужна каждая поза.",
     "type": "teach",
-    "category": "art",
-    "subcategory": "acting",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_037",
-    "createdAt": "2024-12-04T11:40:00Z"
-  },
-  {
-    "id": "skill_095",
-    "title": "Креативное письмо",
-    "description": "Добрый день! Хочу научиться писать интересные истории и лучше выражать свои мысли. Интересуют упражнения на развитие воображения, стиль и построение сюжета.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "creative-writing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_037",
-    "createdAt": "2024-12-19T16:10:00Z"
-  },
-  {
-    "id": "skill_096",
-    "title": "Баланс жизни и работы",
-    "description": "Рад знакомству! За годы работы научился выстраивать здоровый баланс между карьерой и личной жизнью. Расскажу, как распределять нагрузку, избегать выгорания и сохранять время на себя.",
-    "type": "teach",
-    "category": "health",
-    "subcategory": "work-life-balance",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_038",
-    "createdAt": "2025-01-27T12:15:00Z"
-  },
-  {
-    "id": "skill_097",
-    "title": "Управление командой",
-    "description": "Привет! Хочу разобраться, как эффективно управлять командой, мотивировать людей и выстраивать рабочие процессы. Особенно интересен практический опыт руководителей.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "team-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_038",
-    "createdAt": "2025-02-09T17:50:00Z"
-  },
-  {
-    "id": "skill_098",
-    "title": "Рисование и иллюстрация",
-    "description": "Приветствую! Рисование уже много лет остается моим любимым увлечением. Помогу разобраться с композицией, цветом, пропорциями и начать получать удовольствие от процесса создания иллюстраций.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "drawing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_039",
-    "createdAt": "2025-02-10T13:20:00Z"
-  },
-  {
-    "id": "skill_099",
-    "title": "Баланс жизни и работы",
-    "description": "Здравствуйте! Хочу научиться правильно распределять время между работой и отдыхом, чтобы сохранять силы и не выгорать. Интересуют реальные привычки и полезные инструменты.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "work-life-balance",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_039",
-    "createdAt": "2025-02-23T10:40:00Z"
-  },
-  {
-    "id": "skill_100",
-    "title": "Рисование и иллюстрация",
-    "description": "Привет! Уже несколько лет рисую для себя и на заказ. Покажу, как строить форму, работать с цветом и постепенно развивать собственный художественный стиль без страха чистого листа.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "drawing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_040",
-    "createdAt": "2025-03-23T09:10:00Z"
-  },
-  {
-    "id": "skill_101",
-    "title": "Фотография",
-    "description": "Всем привет! Фотографией занимаюсь уже несколько лет — люблю ловить живые эмоции и красивые моменты. Научу работать со светом, композицией, настройками камеры и делать выразительные снимки даже без дорогой техники.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_040",
-    "createdAt": "2025-04-06T15:25:00Z"
-  },
-  {
-    "id": "skill_102",
-    "title": "Видеомонтаж",
-    "description": "Привет! Хочу научиться монтировать современные видео, красиво работать с переходами, цветом и звуком. Интересуют практические советы и реальные проекты.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "video-editing",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_040",
-    "createdAt": "2025-04-18T18:40:00Z"
-  },
-  {
-    "id": "skill_103",
-    "title": "Управление командой",
-    "description": "Здравствуйте! Несколько лет управляю командами и помогаю людям эффективно работать вместе. Расскажу, как выстраивать процессы, делегировать задачи, мотивировать сотрудников и развивать лидерские навыки.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "team-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-04-18T10:15:00Z"
-  },
-  {
-    "id": "skill_104",
-    "title": "Маркетинг и реклама",
-    "description": "Привет! Работаю с продвижением проектов и знаю, как привлекать клиентов с помощью современных маркетинговых инструментов. Помогу разобраться в рекламе, аналитике и стратегии продвижения.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "marketing",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-04-24T14:20:00Z"
-  },
-  {
-    "id": "skill_105",
-    "title": "Продажи и переговоры",
-    "description": "Рад знакомству! Регулярно веду переговоры с клиентами и партнерами. Поделюсь техниками продаж, аргументации и построения доверительных отношений с людьми.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "sales",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-05-03T09:50:00Z"
-  },
-  {
-    "id": "skill_106",
-    "title": "Личный бренд",
-    "description": "Приветствую! Помогу разобраться, как выстроить сильный личный бренд, привлекать внимание аудитории и профессионально рассказывать о своих достижениях.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-05-12T11:30:00Z"
-  },
-  {
-    "id": "skill_107",
-    "title": "Проектное управление",
-    "description": "Добрый день! Уже много лет занимаюсь управлением проектами разной сложности. Научу планировать работу, контролировать сроки и эффективно координировать команду.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "project-management",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-05-22T15:10:00Z"
-  },
-  {
-    "id": "skill_108",
-    "title": "Предпринимательство",
-    "description": "Привет! За плечами запуск собственных проектов и работа с развитием бизнеса. Поделюсь опытом проверки идей, поиска клиентов и построения устойчивых процессов.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-06-03T17:20:00Z"
-  },
-  {
-    "id": "skill_109",
-    "title": "Коучинг",
-    "description": "Привет! Помогаю людям ставить цели, находить мотивацию и двигаться к результату. Поделюсь практиками, которые помогают раскрывать потенциал и сохранять фокус.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "coaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-06-15T13:45:00Z"
-  },
-  {
-    "id": "skill_110",
-    "title": "Йога и медитация",
-    "description": "Всем привет! Хочу освоить практики йоги и медитации, чтобы лучше справляться со стрессом и поддерживать хорошее самочувствие. Буду рад советам и совместной практике.",
-    "type": "learn",
     "category": "health",
     "subcategory": "yoga",
     "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_041",
-    "createdAt": "2025-06-28T10:30:00Z"
+    "imageUrl": "/db/images/skills/health-yoga.svg",
+    "photos": [
+      "/db/images/skills/health-yoga.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-work-life-balance.svg"
+    ],
+    "authorId": "user_015",
+    "createdAt": "2022-07-22T16:49:00Z"
   },
   {
-    "id": "skill_111",
-    "title": "Личный бренд",
-    "description": "Привет! Уже несколько лет развиваю личный бренд и помогаю экспертам понятнее рассказывать о своих навыках. Поделюсь опытом позиционирования, создания контента и формирования доверия аудитории.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_042",
-    "createdAt": "2025-06-08T11:15:00Z"
-  },
-  {
-    "id": "skill_112",
-    "title": "Французский",
-    "description": "Здравствуйте! Хочу начать изучать французский язык для путешествий и общения. Интересуют разговорная практика, правильное произношение и понятная грамматика.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "french",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_042",
-    "createdAt": "2025-06-22T16:40:00Z"
-  },
-  {
-    "id": "skill_113",
-    "title": "Испанский",
-    "description": "Привет! Хочу свободнее говорить на испанском языке и понимать живую речь. Буду рад практике, полезным материалам и советам по обучению.",
+    "id": "skill_044",
+    "title": "Испанский для поездок",
+    "description": "Каждую зиму уезжаю преподавать в Латинскую Америку и каждый раз обещаю себе выучить язык. Нужен разговорный минимум: бытовые ситуации, аренда жилья, общение с учениками.",
     "type": "learn",
     "category": "languages",
     "subcategory": "spanish",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_042",
-    "createdAt": "2025-07-05T09:30:00Z"
+    "imageUrl": "/db/images/skills/languages-spanish.svg",
+    "photos": [
+      "/db/images/skills/languages-spanish.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_015",
+    "createdAt": "2022-12-18T23:02:00Z"
   },
   {
-    "id": "skill_114",
-    "title": "Немецкий",
-    "description": "Добрый день! Хочу выучить немецкий язык с нуля и постепенно выйти на уверенное общение. Интересуют простые объяснения, практика и регулярные занятия.",
+    "id": "skill_045",
+    "title": "Как писать о практике",
+    "description": "Хочу вести рассылку для своих учеников, но тексты выходят приторными и похожими на чужие. Ищу человека, который поможет найти собственную интонацию.",
     "type": "learn",
-    "category": "languages",
-    "subcategory": "german",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_042",
-    "createdAt": "2025-07-19T14:50:00Z"
-  },
-  {
-    "id": "skill_115",
-    "title": "Подготовка к экзаменам (IELTS, TOEFL)",
-    "description": "Всем привет! Планирую готовиться к IELTS или TOEFL и хочу узнать, как эффективно организовать подготовку. Интересуют реальные стратегии и опыт успешной сдачи.",
-    "type": "learn",
-    "category": "languages",
-    "subcategory": "ielts-toefl",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_042",
-    "createdAt": "2025-08-01T12:20:00Z"
-  },
-  {
-    "id": "skill_116",
-    "title": "Декор и DIY",
-    "description": "Приветствую! Люблю создавать уют своими руками и постоянно придумываю новые идеи для дома. Покажу, как делать красивый декор, сочетать материалы и реализовывать DIY-проекты без больших затрат.",
-    "type": "teach",
     "category": "art",
-    "subcategory": "decor-diy",
+    "subcategory": "creative-writing",
     "tags": "творчество",
-    "imageUrl": null,
-    "authorId": "user_043",
-    "createdAt": "2025-06-21T10:40:00Z"
+    "imageUrl": "/db/images/skills/art-creative-writing.svg",
+    "photos": [
+      "/db/images/skills/art-creative-writing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_015",
+    "createdAt": "2023-03-09T09:54:00Z"
   },
   {
-    "id": "skill_117",
-    "title": "Ремонт",
-    "description": "Привет! Хочу научиться самостоятельно выполнять базовый ремонт дома. Интересуют работа с инструментами, полезные лайфхаки и практические советы.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "repair",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_043",
-    "createdAt": "2025-07-04T18:10:00Z"
-  },
-  {
-    "id": "skill_118",
-    "title": "Домашние растения",
-    "description": "Здравствуйте! Хочу научиться правильно ухаживать за комнатными растениями и разобраться, какие условия нужны разным видам. Буду рад практическим советам.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "plants",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_043",
-    "createdAt": "2025-07-18T09:55:00Z"
-  },
-  {
-    "id": "skill_119",
-    "title": "Музыка и звук",
-    "description": "Привет! Уже давно работаю со звуком и музыкой — от записи до обработки аудио. Расскажу, как работать с оборудованием, улучшать качество записи и создавать приятное звучание.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "music",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_044",
-    "createdAt": "2026-01-18T13:25:00Z"
-  },
-  {
-    "id": "skill_120",
-    "title": "Актёрское мастерство",
-    "description": "Рад знакомству! Люблю сцену и публичные выступления, поэтому с удовольствием помогу развить уверенность, поработать над голосом, эмоциями и актерской выразительностью.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "acting",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_044",
-    "createdAt": "2026-01-31T17:15:00Z"
-  },
-  {
-    "id": "skill_121",
-    "title": "Фотография",
-    "description": "Привет! Хочу научиться делать красивые фотографии и лучше понимать композицию, свет и настройки камеры. Интересует практика, которая поможет получать отличный результат даже без дорогой техники.",
-    "type": "learn",
-    "category": "art",
-    "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_044",
-    "createdAt": "2026-02-12T11:40:00Z"
-  },
-  {
-    "id": "skill_122",
-    "title": "Декор и DIY",
-    "description": "Здравствуйте! Люблю делать вещи своими руками и создавать уют в доме. Покажу, как выбирать материалы, сочетать цвета и создавать стильный декор без больших затрат.",
-    "type": "teach",
-    "category": "art",
-    "subcategory": "decor-diy",
-    "tags": "творчество",
-    "imageUrl": null,
-    "authorId": "user_045",
-    "createdAt": "2026-03-11T10:20:00Z"
-  },
-  {
-    "id": "skill_123",
-    "title": "Физические тренировки",
-    "description": "Привет! Хочу разобраться, как тренироваться эффективно и безопасно. Интересуют техника упражнений, развитие силы и привычка заниматься регулярно.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "fitness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_045",
-    "createdAt": "2026-03-22T18:05:00Z"
-  },
-  {
-    "id": "skill_124",
-    "title": "Осознанность",
-    "description": "Добрый день! Хочу научиться лучше справляться со стрессом, сохранять концентрацию и жить более осознанно. Интересуют простые практики, которые легко внедрить в повседневную жизнь.",
-    "type": "learn",
-    "category": "health",
-    "subcategory": "mindfulness",
-    "tags": "здоровье",
-    "imageUrl": null,
-    "authorId": "user_045",
-    "createdAt": "2026-04-03T14:30:00Z"
-  },
-  {
-    "id": "skill_125",
-    "title": "Домашние финансы",
-    "description": "Приветствую! Несколько лет занимаюсь личными финансами и планированием бюджета. Помогу разобраться с учетом расходов, накоплениями и финансовыми привычками без сложных терминов.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "home-finance",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_046",
-    "createdAt": "2026-06-28T09:50:00Z"
-  },
-  {
-    "id": "skill_126",
-    "title": "Предпринимательство",
-    "description": "Рад знакомству! У меня есть опыт запуска собственных проектов и работы с небольшими командами. Поделюсь тем, как проверять идеи, искать первых клиентов и развивать бизнес без лишней теории.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_046",
-    "createdAt": "2026-07-03T16:10:00Z"
-  },
-  {
-    "id": "skill_127",
-    "title": "Маркетинг и реклама",
-    "description": "Привет! Хочу научиться эффективнее продвигать проекты и понимать, как привлекать клиентов. Интересуют маркетинговые стратегии, реклама и аналитика.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "marketing",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_046",
-    "createdAt": "2026-07-12T12:45:00Z"
-  },
-  {
-    "id": "skill_128",
-    "title": "Предпринимательство",
-    "description": "Привет! Уже прошёл путь от идеи до запуска собственного проекта. Расскажу, как проверять гипотезы, искать первых клиентов и развивать бизнес на старте.",
-    "type": "teach",
-    "category": "business",
-    "subcategory": "entrepreneurship",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_047",
-    "createdAt": "2026-07-06T11:35:00Z"
-  },
-  {
-    "id": "skill_129",
-    "title": "Уборка и организация",
-    "description": "Здравствуйте! Хочу научиться организовывать пространство дома так, чтобы поддерживать порядок было проще. Интересуют рабочие системы хранения и полезные привычки.",
-    "type": "learn",
-    "category": "home",
-    "subcategory": "cleaning",
-    "tags": "дом",
-    "imageUrl": null,
-    "authorId": "user_047",
-    "createdAt": "2026-07-17T09:20:00Z"
-  },
-  {
-    "id": "skill_130",
-    "title": "Китайский",
-    "description": "Привет! Уже давно изучаю китайский язык и использую его в общении. Помогу разобраться с произношением, иероглифами и разговорной практикой без лишнего стресса.",
+    "id": "skill_046",
+    "title": "Китайский для жизни и работы",
+    "description": "Прожил шесть лет в Шанхае и ежедневно работал с китайскими партнёрами. Поставлю тоны, дам рабочий набор иероглифов и объясню деловой этикет, из-за которого чаще всего срываются переговоры.",
     "type": "teach",
     "category": "languages",
     "subcategory": "chinese",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_048",
-    "createdAt": "2026-07-06T13:40:00Z"
+    "imageUrl": "/db/images/skills/languages-chinese.svg",
+    "photos": [
+      "/db/images/skills/languages-chinese.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-spanish.svg"
+    ],
+    "authorId": "user_016",
+    "createdAt": "2022-09-19T01:23:00Z"
   },
   {
-    "id": "skill_131",
-    "title": "Японский",
-    "description": "Добро пожаловать! Уже несколько лет изучаю японский язык и культуру. Помогу освоить базовую грамматику, разговорные выражения и уверенно двигаться от первых фраз к полноценному общению.",
+    "id": "skill_047",
+    "title": "Возвращение в форму после сорока",
+    "description": "Последние годы спорт сводился к дороге до машины, вес и давление это заметили. Хочу начать аккуратно и с пониманием, а не по видео из интернета.",
     "type": "learn",
-    "category": "languages",
-    "subcategory": "japanese",
-    "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_048",
-    "createdAt": "2026-07-10T10:15:00Z"
+    "category": "health",
+    "subcategory": "fitness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_016",
+    "createdAt": "2023-02-28T06:39:00Z"
   },
   {
-    "id": "skill_132",
-    "title": "Английский",
-    "description": "Привет! Свободно использую английский в работе и путешествиях. Помогу подтянуть разговорную речь, грамматику и произношение, чтобы чувствовать себя увереннее в общении.",
+    "id": "skill_048",
+    "title": "Комнатные растения",
+    "description": "Привёз из Китая несколько растений, и они медленно погибают на моём подоконнике. Хочу разобраться с поливом, светом и пересадкой, пока не поздно.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "plants",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-plants.svg",
+    "photos": [
+      "/db/images/skills/home-plants.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_016",
+    "createdAt": "2023-04-04T17:40:00Z"
+  },
+  {
+    "id": "skill_049",
+    "title": "Монтаж от съёмки до финала",
+    "description": "Четыре года делаю ролики для кафе и маленьких брендов, монтирую в Premiere и DaVinci. Пройдём весь путь: как снять материал, чтобы он склеился, как держать ритм и как свести звук, чтобы ролик не выглядел любительским.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "video-editing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-video-editing.svg",
+    "photos": [
+      "/db/images/skills/art-video-editing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-decor-diy.svg"
+    ],
+    "authorId": "user_017",
+    "createdAt": "2023-02-09T09:58:00Z"
+  },
+  {
+    "id": "skill_050",
+    "title": "Английский для стоковых площадок",
+    "description": "Хочу продавать ролики на зарубежных стоках, но зависаю на описаниях, тегах и переписке с поддержкой. Нужна практика деловой переписки и уверенность в формулировках.",
     "type": "learn",
     "category": "languages",
     "subcategory": "english",
     "tags": "языки",
-    "imageUrl": null,
-    "authorId": "user_048",
-    "createdAt": "2026-07-13T18:20:00Z"
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_017",
+    "createdAt": "2023-08-03T14:17:00Z"
   },
   {
-    "id": "skill_133",
-    "title": "Личный бренд",
-    "description": "Здравствуйте! Хочу научиться лучше рассказывать о себе, своих навыках и проектах. Интересуют позиционирование, контент и развитие личного бренда без искусственного образа.",
+    "id": "skill_051",
+    "title": "Раскадровка и скетч",
+    "description": "Идеи снимаю сразу в камеру и часто теряю задумку по дороге. Хочу научиться быстро рисовать раскадровку, чтобы объяснять клиенту план съёмки до выезда.",
     "type": "learn",
-    "category": "business",
-    "subcategory": "personal-brand",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_048",
-    "createdAt": "2026-07-18T09:45:00Z"
+    "category": "art",
+    "subcategory": "drawing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_017",
+    "createdAt": "2024-01-21T01:26:00Z"
   },
   {
-    "id": "skill_134",
-    "title": "Продажи и переговоры",
-    "description": "Привет! Хочу научиться увереннее вести переговоры и лучше понимать принципы продаж. Буду рад практическим советам и реальным примерам.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "sales",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_048",
-    "createdAt": "2026-07-22T15:30:00Z"
-  },
-  {
-    "id": "skill_135",
-    "title": "Навыки преподавания",
-    "description": "Приветствую! Мне нравится помогать людям учиться и развиваться. Расскажу, как объяснять сложные темы простыми словами, удерживать внимание аудитории и делать обучение интересным.",
+    "id": "skill_052",
+    "title": "Личные финансы по полочкам",
+    "description": "Работаю аналитиком двадцать лет и веду личный учёт с две тысячи четырнадцатого года. Соберём вашу картину доходов и расходов, отделим обязательное от случайного и построим план, который переживёт первый же незапланированный месяц.",
     "type": "teach",
-    "category": "education",
-    "subcategory": "teaching",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_049",
-    "createdAt": "2026-07-08T11:40:00Z"
+    "category": "home",
+    "subcategory": "home-finance",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-home-finance.svg",
+    "photos": [
+      "/db/images/skills/home-home-finance.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-plants.svg"
+    ],
+    "authorId": "user_018",
+    "createdAt": "2022-11-21T18:33:00Z"
   },
   {
-    "id": "skill_136",
-    "title": "Коучинг",
-    "description": "Рад знакомству! Практикую коучинговый подход и помогаю людям достигать целей через правильные вопросы и системную работу. Поделюсь базовыми инструментами и подходами.",
-    "type": "learn",
-    "category": "business",
-    "subcategory": "coaching",
-    "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_049",
-    "createdAt": "2026-07-11T16:10:00Z"
-  },
-  {
-    "id": "skill_137",
-    "title": "Личностное развитие",
-    "description": "Добрый день! Уже давно интересуюсь развитием и формированием полезных привычек. Помогу выстроить понятный путь развития и сохранять мотивацию на длинной дистанции.",
-    "type": "learn",
-    "category": "education",
-    "subcategory": "personal-development",
-    "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_049",
-    "createdAt": "2026-07-15T10:50:00Z"
-  },
-  {
-    "id": "skill_138",
-    "title": "Когнитивные техники",
-    "description": "Привет! Хочу разобраться, как лучше запоминать информацию, быстрее мыслить и эффективнее учиться. Интересуют проверенные когнитивные техники и практические упражнения.",
+    "id": "skill_053",
+    "title": "Память на имена и лица",
+    "description": "На совещаниях по тридцать человек, и я постоянно путаю, кто за что отвечает. Хочу освоить работающие техники запоминания, а не очередной список советов.",
     "type": "learn",
     "category": "education",
     "subcategory": "cognitive-skills",
     "tags": "образование",
-    "imageUrl": null,
-    "authorId": "user_049",
-    "createdAt": "2026-07-20T14:20:00Z"
+    "imageUrl": "/db/images/skills/education-cognitive-skills.svg",
+    "photos": [
+      "/db/images/skills/education-cognitive-skills.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_018",
+    "createdAt": "2023-05-28T21:54:00Z"
   },
   {
-    "id": "skill_139",
-    "title": "Личный бренд",
-    "description": "Здравствуйте! Хочу научиться развивать личный бренд и понятнее рассказывать о своем опыте. Интересуют контент, позиционирование и развитие аудитории.",
+    "id": "skill_054",
+    "title": "Мужская кухня без пафоса",
+    "description": "Жена в командировках, а мой репертуар — пельмени и гречка. Хочу научиться готовить пять-шесть нормальных блюд, чтобы не стыдно было позвать друзей.",
     "type": "learn",
+    "category": "home",
+    "subcategory": "cooking",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_018",
+    "createdAt": "2023-10-01T09:12:00Z"
+  },
+  {
+    "id": "skill_055",
+    "title": "Блог, который читают",
+    "description": "Веду канал на восемь тысяч подписчиков, который вырос без рекламы. Разберём, о чём вам писать, как держать регулярность без выгорания и как из профессии сделать понятную читателю историю.",
+    "type": "teach",
     "category": "business",
     "subcategory": "personal-brand",
     "tags": "бизнес",
-    "imageUrl": null,
-    "authorId": "user_049",
-    "createdAt": "2026-07-24T12:15:00Z"
+    "imageUrl": "/db/images/skills/business-personal-brand.svg",
+    "photos": [
+      "/db/images/skills/business-personal-brand.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-entrepreneurship.svg"
+    ],
+    "authorId": "user_019",
+    "createdAt": "2023-02-05T03:08:00Z"
   },
   {
-    "id": "skill_140",
-    "title": "Фотография",
-    "description": "Привет! Несколько лет занимаюсь фотографией и люблю ловить интересные моменты. Научу работать со светом, композицией и настройками камеры, чтобы фотографии выглядели живыми и выразительными.",
+    "id": "skill_056",
+    "title": "Редактура своих текстов",
+    "description": "Десять лет редактирую чужие тексты и умею объяснять, почему фраза не работает. Научу видеть в своём черновике лишнее, выстраивать структуру и доводить текст до состояния, когда его приятно читать вслух.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "creative-writing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-creative-writing.svg",
+    "photos": [
+      "/db/images/skills/art-creative-writing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-video-editing.svg"
+    ],
+    "authorId": "user_019",
+    "createdAt": "2023-02-26T05:32:00Z"
+  },
+  {
+    "id": "skill_057",
+    "title": "Немецкий с преподавателем",
+    "description": "Учила язык в университете, за десять лет всё выветрилось до «Entschuldigung». Хочу восстановить базу и дойти до уровня, на котором можно читать новости и общаться в поездке.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "german",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-german.svg",
+    "photos": [
+      "/db/images/skills/languages-german.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_019",
+    "createdAt": "2023-05-17T16:58:00Z"
+  },
+  {
+    "id": "skill_058",
+    "title": "Репортажная съёмка",
+    "description": "Десять лет снимаю репортаж для изданий и фестивалей. Научу работать быстро в неудобных условиях: ловить момент, не мешать происходящему и возвращаться со съёмки с серией кадров, а не с тысячей случайных файлов.",
     "type": "teach",
     "category": "art",
     "subcategory": "photography",
-    "tags": "искусство",
-    "imageUrl": null,
-    "authorId": "user_050",
-    "createdAt": "2026-07-18T11:30:00Z"
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-art-therapy.svg"
+    ],
+    "authorId": "user_020",
+    "createdAt": "2023-03-04T22:10:00Z"
   },
   {
-    "id": "skill_141",
-    "title": "Рисование и иллюстрация",
-    "description": "Привет! Хочу научиться рисовать увереннее и разобраться с основами композиции, цвета и пропорций. Интересует практика, которая поможет перестать бояться чистого листа и получать удовольствие от процесса.",
+    "id": "skill_059",
+    "title": "Порядок в архиве и дома",
+    "description": "Дома вещи лежат так же, как фотоархив, — слоями и без системы. Хочу один раз разобрать пространство и получить схему хранения, которая переживёт пару месяцев.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "storage",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-storage.svg",
+    "photos": [
+      "/db/images/skills/home-storage.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_020",
+    "createdAt": "2023-07-09T03:30:00Z"
+  },
+  {
+    "id": "skill_060",
+    "title": "Границы на фрилансе",
+    "description": "Съёмки по выходным стали нормой, и я не помню, когда последний раз отдыхал два дня подряд. Ищу того, кто поможет выстроить рабочие границы без потери клиентов.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "work-life-balance",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-work-life-balance.svg",
+    "photos": [
+      "/db/images/skills/health-work-life-balance.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_020",
+    "createdAt": "2023-12-26T18:08:00Z"
+  },
+  {
+    "id": "skill_061",
+    "title": "Речь и выступления",
+    "description": "Четвёртый курс театрального и два года работы с детской студией. Поставим дыхание и дикцию, разберём, куда девать руки и голос на выступлении, и снимем тот самый мандраж перед первой фразой.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "acting",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-acting.svg",
+    "photos": [
+      "/db/images/skills/art-acting.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-video-editing.svg"
+    ],
+    "authorId": "user_021",
+    "createdAt": "2023-05-20T06:44:00Z"
+  },
+  {
+    "id": "skill_062",
+    "title": "Английский для прослушиваний",
+    "description": "Хочу подавать заявки в зарубежные летние школы, но самопрезентация на английском звучит как школьный пересказ. Нужна практика речи с упором на естественные интонации.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_021",
+    "createdAt": "2023-10-06T11:07:00Z"
+  },
+  {
+    "id": "skill_063",
+    "title": "Учёба, работа и репетиции",
+    "description": "Пары, репетиции и подработка не помещаются в одну неделю, сплю по пять часов. Хочу научиться планировать так, чтобы хоть что-то не проваливалось.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "time-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-time-management.svg",
+    "photos": [
+      "/db/images/skills/business-time-management.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_021",
+    "createdAt": "2024-02-09T01:54:00Z"
+  },
+  {
+    "id": "skill_064",
+    "title": "Растения, которые выживут",
+    "description": "Двадцать лет развожу комнатные растения, от фикусов до капризных калатей. Подберём зелень под ваш подоконник и режим жизни, разберём полив, свет и пересадку — и вы перестанете хоронить по цветку в месяц.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "plants",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-plants.svg",
+    "photos": [
+      "/db/images/skills/home-plants.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-storage.svg"
+    ],
+    "authorId": "user_022",
+    "createdAt": "2023-07-09T15:19:00Z"
+  },
+  {
+    "id": "skill_065",
+    "title": "Уборка по системе",
+    "description": "Держу в порядке квартиру, библиотечный фонд и дачу, и всё это без выходных-авралов. Покажу, как разложить уборку на короткие повторяющиеся действия, чтобы дом оставался чистым сам собой.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "cleaning",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cleaning.svg",
+    "photos": [
+      "/db/images/skills/home-cleaning.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-plants.svg"
+    ],
+    "authorId": "user_022",
+    "createdAt": "2023-12-08T18:45:00Z"
+  },
+  {
+    "id": "skill_066",
+    "title": "Внимание и концентрация",
+    "description": "Замечаю, что стала хуже удерживать длинный текст и постоянно отвлекаюсь на телефон. Хочу понять, как тренировать внимание в моём возрасте без волшебных таблеток.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "cognitive-skills",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-cognitive-skills.svg",
+    "photos": [
+      "/db/images/skills/education-cognitive-skills.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_022",
+    "createdAt": "2024-02-27T09:40:00Z"
+  },
+  {
+    "id": "skill_067",
+    "title": "Арт-терапия для себя",
+    "description": "Психолог с восьмилетней практикой, веду группы для подростков и взрослых. Покажу простые упражнения с красками и глиной, которые помогают выгрузить напряжение, — уметь рисовать для этого совершенно не нужно.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "art-therapy",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-art-therapy.svg",
+    "photos": [
+      "/db/images/skills/art-art-therapy.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-video-editing.svg"
+    ],
+    "authorId": "user_023",
+    "createdAt": "2023-04-28T23:54:00Z"
+  },
+  {
+    "id": "skill_068",
+    "title": "Питание при нагрузках",
+    "description": "В дни групповых сессий забываю поесть до вечера, потом наедаюсь на ночь. Хочу выстроить режим питания, который выдержит ненормированный график.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "nutrition",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-nutrition.svg",
+    "photos": [
+      "/db/images/skills/health-nutrition.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_023",
+    "createdAt": "2023-10-11T02:22:00Z"
+  },
+  {
+    "id": "skill_069",
+    "title": "Подготовка к IELTS",
+    "description": "Планирую подаваться на магистратуру за рубежом, нужен балл не ниже семи. Больше всего проседает письменная часть — ищу того, кто объяснит структуру эссе и проверит работы.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "ielts-toefl",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-ielts-toefl.svg",
+    "photos": [
+      "/db/images/skills/languages-ielts-toefl.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_023",
+    "createdAt": "2023-11-15T17:27:00Z"
+  },
+  {
+    "id": "skill_070",
+    "title": "Коучинговые вопросы в работе",
+    "description": "Пятнадцать лет в HR, последние пять — практикующий коуч с сертификацией. Научу задавать вопросы, после которых человек сам находит решение, — это работает и с командой, и с подростком дома.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "coaching",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-coaching.svg",
+    "photos": [
+      "/db/images/skills/education-coaching.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-teaching.svg"
+    ],
+    "authorId": "user_024",
+    "createdAt": "2023-08-15T08:29:00Z"
+  },
+  {
+    "id": "skill_071",
+    "title": "Рисование с нуля",
+    "description": "Всю жизнь считал, что мне медведь на руку наступил, но хочу проверить. Интересно начать с самых основ: линия, форма, простые предметы.",
     "type": "learn",
     "category": "art",
     "subcategory": "drawing",
-    "tags": "искусство",
-    "imageUrl": null,
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_024",
+    "createdAt": "2024-02-09T10:00:00Z"
+  },
+  {
+    "id": "skill_072",
+    "title": "Как справляться с тревогой",
+    "description": "Клинический психолог, десять лет работаю с тревожными расстройствами. Разберём, как устроена тревога, и освоим техники, которые помогают в моменте, — плюс честно обсудим, когда пора идти к специалисту, а не к навыку в обмен.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "mental-health",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mental-health.svg",
+    "photos": [
+      "/db/images/skills/health-mental-health.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-nutrition.svg"
+    ],
+    "authorId": "user_025",
+    "createdAt": "2023-11-21T17:04:00Z"
+  },
+  {
+    "id": "skill_073",
+    "title": "Японский для чтения",
+    "description": "Коллекционирую японские гравюры и хочу читать подписи и каталоги в оригинале. Готова начать с азбук и двигаться медленно, но регулярно.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "japanese",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-japanese.svg",
+    "photos": [
+      "/db/images/skills/languages-japanese.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_025",
+    "createdAt": "2024-05-30T17:37:00Z"
+  },
+  {
+    "id": "skill_074",
+    "title": "Оформление кабинета",
+    "description": "Делаю кабинет для частной практики и не хочу типовой «психологический» интерьер. Нужен человек со вкусом, который подскажет, как собрать спокойное пространство из доступных вещей.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "decor-diy",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-decor-diy.svg",
+    "photos": [
+      "/db/images/skills/art-decor-diy.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_025",
+    "createdAt": "2024-10-03T08:59:00Z"
+  },
+  {
+    "id": "skill_075",
+    "title": "Управление сроками и подрядчиками",
+    "description": "Двадцать лет веду строительные проекты, где срыв срока стоит миллионы. Разберём планирование с запасом, контроль подрядчиков и разговор с заказчиком, когда что-то пошло не так, — эти вещи работают в любой отрасли.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "project-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-project-management.svg",
+    "photos": [
+      "/db/images/skills/business-project-management.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-time-management.svg"
+    ],
+    "authorId": "user_026",
+    "createdAt": "2023-09-27T01:39:00Z"
+  },
+  {
+    "id": "skill_076",
+    "title": "Крупные сделки",
+    "description": "Веду переговоры по контрактам, где решение принимают пять человек и полгода. Покажу, как готовить встречу, работать с разными интересами внутри компании клиента и не терять сделку на этапе согласований.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "sales",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-sales.svg",
+    "photos": [
+      "/db/images/skills/business-sales.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-personal-brand.svg"
+    ],
+    "authorId": "user_026",
+    "createdAt": "2023-10-21T01:14:00Z"
+  },
+  {
+    "id": "skill_077",
+    "title": "Осознанность для занятых",
+    "description": "Голова не выключается даже в отпуске, засыпаю с телефоном в руке. Хочу простые практики на пять-десять минут, которые реально встроятся в плотный день.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "mindfulness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mindfulness.svg",
+    "photos": [
+      "/db/images/skills/health-mindfulness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_026",
+    "createdAt": "2024-01-09T16:45:00Z"
+  },
+  {
+    "id": "skill_078",
+    "title": "Сад на даче",
+    "description": "Купил участок, посадил всё сразу и половину загубил. Хочу разобраться, что и когда сажать в нашей полосе, чтобы не действовать наугад.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "plants",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-plants.svg",
+    "photos": [
+      "/db/images/skills/home-plants.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_026",
+    "createdAt": "2024-07-09T03:57:00Z"
+  },
+  {
+    "id": "skill_079",
+    "title": "Хранение в маленькой квартире",
+    "description": "Пять лет разбираю чужие квартиры как организатор пространства, видела всё — от гардеробных до балконов с лыжами. Составим схему хранения под ваши вещи и привычки, чтобы порядок держался без ежедневных подвигов.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "storage",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-storage.svg",
+    "photos": [
+      "/db/images/skills/home-storage.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-home-finance.svg"
+    ],
+    "authorId": "user_027",
+    "createdAt": "2023-12-01T10:13:00Z"
+  },
+  {
+    "id": "skill_080",
+    "title": "Разбор завалов",
+    "description": "Знаю, как начать, когда смотреть на комнату страшно. Пройдём разбор по шагам: что выбрасывать без сожалений, как решать по спорным вещам и почему сортировка «потом разберу» не работает никогда.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "cleaning",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cleaning.svg",
+    "photos": [
+      "/db/images/skills/home-cleaning.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-cooking.svg"
+    ],
+    "authorId": "user_027",
+    "createdAt": "2024-01-07T08:52:00Z"
+  },
+  {
+    "id": "skill_081",
+    "title": "Английский для соцсетей",
+    "description": "Хочу вести часть блога на английском — за рубежом эта профессия популярнее. Нужна живая речь и помощь с короткими текстами для постов.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_027",
+    "createdAt": "2024-02-12T00:31:00Z"
+  },
+  {
+    "id": "skill_082",
+    "title": "Немецкий: от нуля до разговора",
+    "description": "Переводчик с восьмилетним стажем, два года жил в Дрездене. Научу не бояться длинных слов и падежей: строим занятие вокруг живых диалогов, а грамматику подключаем ровно там, где она нужна для смысла.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "german",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-german.svg",
+    "photos": [
+      "/db/images/skills/languages-german.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-japanese.svg"
+    ],
+    "authorId": "user_028",
+    "createdAt": "2023-09-12T18:48:00Z"
+  },
+  {
+    "id": "skill_083",
+    "title": "Импровизация на басу",
+    "description": "Играю по табам уже три года, но без нот перед глазами теряюсь. Хочу понять гармонию настолько, чтобы спокойно импровизировать на репетиции.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "music",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-music.svg",
+    "photos": [
+      "/db/images/skills/art-music.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_028",
+    "createdAt": "2023-11-01T16:29:00Z"
+  },
+  {
+    "id": "skill_084",
+    "title": "Тренировки для выносливости",
+    "description": "Сидячая работа плюс репетиции по вечерам — на лестнице выдыхаюсь. Ищу программу, которую можно делать дома три раза в неделю.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "fitness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_028",
+    "createdAt": "2024-04-20T08:17:00Z"
+  },
+  {
+    "id": "skill_085",
+    "title": "Практики осознанности",
+    "description": "Шесть лет веду группы и ретриты, до этого десять лет работала в рекламном агентстве. Покажу практики, которые выдерживают реальную жизнь с дедлайнами, и объясню, что делать, когда «просто дышать» не помогает.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "mindfulness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mindfulness.svg",
+    "photos": [
+      "/db/images/skills/health-mindfulness.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-nutrition.svg"
+    ],
+    "authorId": "user_029",
+    "createdAt": "2023-12-20T03:23:00Z"
+  },
+  {
+    "id": "skill_086",
+    "title": "Съёмка для соцсетей",
+    "description": "Снимаю ретриты сама, и кадры выходят бледнее, чем происходящее. Хочу понять базу: свет, композицию и обработку без тяжёлых фильтров.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "photography",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_029",
+    "createdAt": "2024-02-21T00:07:00Z"
+  },
+  {
+    "id": "skill_087",
+    "title": "Отдых, который восстанавливает",
+    "description": "Смешно, но человек, который учит других отдыхать, сам работает по выходным. Ищу взгляд со стороны и честный разбор моего расписания.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "work-life-balance",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-work-life-balance.svg",
+    "photos": [
+      "/db/images/skills/health-work-life-balance.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_029",
+    "createdAt": "2024-06-25T16:03:00Z"
+  },
+  {
+    "id": "skill_088",
+    "title": "Как вернуть нормальный сон",
+    "description": "Три года разбирался с собственной бессонницей и перечитал всё, что нашёл по теме. Разберём ваш режим, свет и вечерние привычки и соберём план восстановления сна, который не требует таблеток и героизма.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "sleep",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-sleep.svg",
+    "photos": [
+      "/db/images/skills/health-sleep.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-yoga.svg"
+    ],
+    "authorId": "user_030",
+    "createdAt": "2023-11-26T22:25:00Z"
+  },
+  {
+    "id": "skill_089",
+    "title": "Как превратить знание в услугу",
+    "description": "Накопил много практического опыта по теме сна и думаю сделать из этого консультации. Не понимаю, с чего начать и как не уйти в бесконечную подготовку.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "entrepreneurship",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-entrepreneurship.svg",
+    "photos": [
+      "/db/images/skills/business-entrepreneurship.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_030",
+    "createdAt": "2024-05-12T22:05:00Z"
+  },
+  {
+    "id": "skill_090",
+    "title": "Французский для путешествий",
+    "description": "Преподаю девять лет и каждое лето вожу группы во Францию. Сразу ставлю произношение, чтобы вас понимали, и даю тот набор фраз, который реально нужен в кафе, отеле и на вокзале, а не в учебнике.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "french",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-french.svg",
+    "photos": [
+      "/db/images/skills/languages-french.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-chinese.svg"
+    ],
+    "authorId": "user_031",
+    "createdAt": "2024-05-09T06:59:00Z"
+  },
+  {
+    "id": "skill_091",
+    "title": "Йога дома по утрам",
+    "description": "Пробовала заниматься по видео, но без обратной связи сомневаюсь в каждой позе. Хочу разобрать технику с человеком и собрать короткий утренний комплекс.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "yoga",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-yoga.svg",
+    "photos": [
+      "/db/images/skills/health-yoga.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_031",
+    "createdAt": "2024-11-06T05:42:00Z"
+  },
+  {
+    "id": "skill_092",
+    "title": "Творчество без оценки",
+    "description": "Привыкла всё оценивать по шкале «правильно — неправильно», даже отдых. Интересно попробовать формат, где не нужно делать хорошо, а нужно просто делать.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "art-therapy",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-art-therapy.svg",
+    "photos": [
+      "/db/images/skills/art-art-therapy.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_031",
+    "createdAt": "2025-04-26T00:59:00Z"
+  },
+  {
+    "id": "skill_093",
+    "title": "Как учиться взрослому",
+    "description": "Двенадцать лет проектирую учебные программы и вижу, где люди бросают. Разберём, как выбрать посильный объём, встроить занятия в неделю и повторять так, чтобы материал держался в голове дольше, чем до конца курса.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "learning-skills",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-learning-skills.svg",
+    "photos": [
+      "/db/images/skills/education-learning-skills.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-personal-development.svg"
+    ],
+    "authorId": "user_032",
+    "createdAt": "2024-09-03T15:34:00Z"
+  },
+  {
+    "id": "skill_094",
+    "title": "Работа с большими текстами",
+    "description": "Читаю по несколько отчётов и книг в неделю по работе. Научу быстро определять структуру текста, вытаскивать главное и делать заметки, к которым потом действительно возвращаешься.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "speed-reading",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-speed-reading.svg",
+    "photos": [
+      "/db/images/skills/education-speed-reading.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-cognitive-skills.svg"
+    ],
+    "authorId": "user_032",
+    "createdAt": "2025-03-16T13:20:00Z"
+  },
+  {
+    "id": "skill_095",
+    "title": "Английский для конференций",
+    "description": "Читаю профессиональную литературу свободно, а на вопрос из зала отвечаю с паузами по полминуты. Нужна разговорная практика в формате «вопрос — быстрый ответ».",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_032",
+    "createdAt": "2025-07-20T08:45:00Z"
+  },
+  {
+    "id": "skill_096",
+    "title": "Как написать первый рассказ",
+    "description": "Публикуюсь в литературных журналах и веду мастерскую для начинающих. Пройдём путь от идеи до законченного текста: герой, конфликт, финал — и разберём ваш черновик подробно и по-доброму.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "creative-writing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-creative-writing.svg",
+    "photos": [
+      "/db/images/skills/art-creative-writing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-acting.svg"
+    ],
+    "authorId": "user_033",
+    "createdAt": "2024-06-18T00:09:00Z"
+  },
+  {
+    "id": "skill_097",
+    "title": "Продвижение автора",
+    "description": "Написала книгу, а дальше — тишина: как её показать читателям, не понимаю совсем. Ищу базовое понимание продвижения без обещаний «выйти на миллион».",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "marketing",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-marketing.svg",
+    "photos": [
+      "/db/images/skills/business-marketing.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_033",
+    "createdAt": "2024-07-14T20:57:00Z"
+  },
+  {
+    "id": "skill_098",
+    "title": "Видео для подкаста",
+    "description": "Хочу выкладывать выпуски с видеорядом, но монтаж пугает количеством кнопок. Нужен простой рабочий процесс, который я осилю одна.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "video-editing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-video-editing.svg",
+    "photos": [
+      "/db/images/skills/art-video-editing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_033",
+    "createdAt": "2024-10-03T16:31:00Z"
+  },
+  {
+    "id": "skill_099",
+    "title": "Удалёнка без выгорания",
+    "description": "Работаю из дома семь лет и прошёл все стадии: от «сплю до десяти» до «отвечаю в час ночи». Расскажу, как отделить работу от дома физически и по времени, когда офис — это ваша кухня.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "work-life-balance",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-work-life-balance.svg",
+    "photos": [
+      "/db/images/skills/health-work-life-balance.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-yoga.svg"
+    ],
+    "authorId": "user_034",
+    "createdAt": "2024-11-19T08:44:00Z"
+  },
+  {
+    "id": "skill_100",
+    "title": "Испанский для переезда",
+    "description": "Рассматриваю переезд в Аргентину на пару лет и хочу приехать уже с языком. Нужен человек для регулярных разговорных занятий, база у меня есть.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "spanish",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-spanish.svg",
+    "photos": [
+      "/db/images/skills/languages-spanish.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_034",
+    "createdAt": "2024-12-29T04:35:00Z"
+  },
+  {
+    "id": "skill_101",
+    "title": "Азиатская кухня дома",
+    "description": "Обожаю есть азиатскую еду и не понимаю, как повторить её на своей плите. Хочу разобраться с базовыми соусами и техникой вока.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "cooking",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_034",
+    "createdAt": "2025-02-03T00:18:00Z"
+  },
+  {
+    "id": "skill_102",
+    "title": "Уют без ремонта",
+    "description": "Десять лет проектирую интерьеры, чаще всего с очень скромным бюджетом. Покажу, как изменить комнату светом, текстилем и перестановкой — без сноса стен и трат на дизайнерскую мебель.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "decor-diy",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-decor-diy.svg",
+    "photos": [
+      "/db/images/skills/art-decor-diy.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-acting.svg"
+    ],
+    "authorId": "user_035",
+    "createdAt": "2025-03-02T17:19:00Z"
+  },
+  {
+    "id": "skill_103",
+    "title": "Уверенность в переговорах с клиентом",
+    "description": "Соглашаюсь на правки бесконечно и потом работаю бесплатно. Хочу научиться спокойно отстаивать решения и говорить «нет» без чувства вины.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "personal-development",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-personal-development.svg",
+    "photos": [
+      "/db/images/skills/education-personal-development.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_035",
+    "createdAt": "2025-04-24T12:12:00Z"
+  },
+  {
+    "id": "skill_104",
+    "title": "Английский для профессиональных медиа",
+    "description": "Половина хороших материалов по интерьерам — на английском, я читаю их урывками. Нужна помощь с лексикой и регулярная практика чтения.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_035",
+    "createdAt": "2025-10-12T08:04:00Z"
+  },
+  {
+    "id": "skill_105",
+    "title": "Память и внимание",
+    "description": "Преподаю пятнадцать лет и каждый год проверяю техники запоминания на студентах. Разберём, как работает память, и освоим приёмы для имён, терминов и формул — с тренировкой на вашем реальном материале.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "cognitive-skills",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-cognitive-skills.svg",
+    "photos": [
+      "/db/images/skills/education-cognitive-skills.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-personal-development.svg"
+    ],
+    "authorId": "user_036",
+    "createdAt": "2024-11-20T01:54:00Z"
+  },
+  {
+    "id": "skill_106",
+    "title": "Как держать аудиторию",
+    "description": "Читаю лекции на сто человек, и к середине пары половина в телефонах. Хочу поработать с голосом, паузами и подачей — материал у меня хороший, подача скучная.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "acting",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-acting.svg",
+    "photos": [
+      "/db/images/skills/art-acting.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_036",
+    "createdAt": "2025-01-24T19:50:00Z"
+  },
+  {
+    "id": "skill_107",
+    "title": "Подготовка к IELTS и TOEFL",
+    "description": "Готовлю к экзаменам четыре года, средний балл учеников — семь с половиной. Разберём формат по частям, натренируем тайминг и письменную часть, где чаще всего теряют баллы из-за структуры, а не из-за языка.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "ielts-toefl",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-ielts-toefl.svg",
+    "photos": [
+      "/db/images/skills/languages-ielts-toefl.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-german.svg"
+    ],
+    "authorId": "user_037",
+    "createdAt": "2025-04-03T03:11:00Z"
+  },
+  {
+    "id": "skill_108",
+    "title": "Английский для школьников",
+    "description": "Работаю с подростками, которым язык «не даётся», и чаще всего проблема в пробелах пятого класса. Спокойно закрываем дыры, возвращаем уверенность и подтягиваем оценки без зубрёжки правил наизусть.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-spanish.svg"
+    ],
+    "authorId": "user_037",
+    "createdAt": "2025-06-20T20:09:00Z"
+  },
+  {
+    "id": "skill_109",
+    "title": "Иллюстрации для занятий",
+    "description": "Хочу рисовать простые картинки для карточек и раздаточных материалов сама. Достаточно уровня «понятно и симпатично», без академического рисунка.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "drawing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_037",
+    "createdAt": "2025-09-09T16:18:00Z"
+  },
+  {
+    "id": "skill_110",
+    "title": "Еда при нервной работе",
+    "description": "В период экзаменов живу на кофе и шоколадках, потом расплачиваюсь самочувствием. Хочу собрать простой рацион на такие месяцы.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "nutrition",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-nutrition.svg",
+    "photos": [
+      "/db/images/skills/health-nutrition.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_037",
+    "createdAt": "2026-01-09T21:19:00Z"
+  },
+  {
+    "id": "skill_111",
+    "title": "Запись и сведение дома",
+    "description": "Двенадцать лет играю и шесть лет записываю группы в домашней студии. Покажу, как собрать рабочее место за небольшие деньги, записать чистый вокал в обычной комнате и свести трек так, чтобы он звучал в наушниках и в машине.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "music",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-music.svg",
+    "photos": [
+      "/db/images/skills/art-music.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-drawing.svg"
+    ],
+    "authorId": "user_038",
+    "createdAt": "2025-07-13T17:05:00Z"
+  },
+  {
+    "id": "skill_112",
+    "title": "Работа с творческими людьми",
+    "description": "Организовать четырёх музыкантов сложнее, чем свести альбом. Хочу научиться договариваться о сроках и ролях так, чтобы это не превращалось в ссору.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "team-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-team-management.svg",
+    "photos": [
+      "/db/images/skills/business-team-management.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_038",
+    "createdAt": "2025-10-13T09:06:00Z"
+  },
+  {
+    "id": "skill_113",
+    "title": "Режим после ночных смен",
+    "description": "Записи часто идут до трёх ночи, потом два дня ходишь как в тумане. Ищу способ восстанавливаться быстрее и не ломать режим окончательно.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "sleep",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-sleep.svg",
+    "photos": [
+      "/db/images/skills/health-sleep.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_038",
+    "createdAt": "2025-11-18T05:24:00Z"
+  },
+  {
+    "id": "skill_114",
+    "title": "Смена профессии после тридцати",
+    "description": "Сама сменила профессию в тридцать один и теперь помогаю другим пройти этот путь. Разберём, что у вас уже есть, чего реально не хватает и как сделать переход постепенным, а не прыжком в пропасть без подушки.",
+    "type": "teach",
+    "category": "education",
+    "subcategory": "personal-development",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-personal-development.svg",
+    "photos": [
+      "/db/images/skills/education-personal-development.svg",
+      "/db/images/skills/education.svg",
+      "/db/images/skills/education-speed-reading.svg"
+    ],
+    "authorId": "user_039",
+    "createdAt": "2025-04-10T17:46:00Z"
+  },
+  {
+    "id": "skill_115",
+    "title": "Китайский для начинающих",
+    "description": "Компания открывает направление в Китае, и знание языка станет большим плюсом. Начинаю с нуля, больше всего боюсь тонов и иероглифов.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "chinese",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-chinese.svg",
+    "photos": [
+      "/db/images/skills/languages-chinese.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_039",
+    "createdAt": "2025-07-24T08:50:00Z"
+  },
+  {
+    "id": "skill_116",
+    "title": "Подготовка к полумарафону",
+    "description": "Бегаю третий год без всякого плана и упёрлась в одно и то же время. Хочу разумный план подготовки, который не приведёт меня к травме.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "fitness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_039",
+    "createdAt": "2026-01-11T05:16:00Z"
+  },
+  {
+    "id": "skill_117",
+    "title": "Испанский как у местных",
+    "description": "Двенадцать лет прожил в Испании и работал гидом. Даю живой язык с первого занятия: как говорят в очереди на почте, в баре и с соседями, — плюс объясню разницу с латиноамериканскими вариантами.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "spanish",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-spanish.svg",
+    "photos": [
+      "/db/images/skills/languages-spanish.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-german.svg"
+    ],
+    "authorId": "user_040",
+    "createdAt": "2025-10-02T00:20:00Z"
+  },
+  {
+    "id": "skill_118",
+    "title": "Ремонт в старой квартире",
+    "description": "Купил квартиру в доме семидесятых, и каждый гвоздь приносит сюрприз. Хочу научиться делать простые вещи сам и понимать, где точно нужен мастер.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "repair",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-repair.svg",
+    "photos": [
+      "/db/images/skills/home-repair.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_040",
+    "createdAt": "2025-10-31T18:20:00Z"
+  },
+  {
+    "id": "skill_119",
+    "title": "Адаптация после переезда",
+    "description": "Вернулся в Россию после двенадцати лет за границей и никак не соберусь. Ищу человека, с которым можно проговорить это спокойно и по делу.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "mental-health",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mental-health.svg",
+    "photos": [
+      "/db/images/skills/health-mental-health.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_040",
+    "createdAt": "2026-01-20T17:58:00Z"
+  },
+  {
+    "id": "skill_120",
+    "title": "Собеседование без страха",
+    "description": "Шесть лет работал рекрутером в IT, провёл больше пятисот интервью. Прогоним ваше собеседование как настоящее: разберём ответы на неудобные вопросы, рассказ о себе и разговор о деньгах, после которого не хочется провалиться сквозь землю.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "resume",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-resume.svg",
+    "photos": [
+      "/db/images/skills/business-resume.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-entrepreneurship.svg"
+    ],
+    "authorId": "user_041",
+    "createdAt": "2025-06-15T03:06:00Z"
+  },
+  {
+    "id": "skill_121",
+    "title": "Планирование по неделям",
+    "description": "Перепробовал все системы и оставил ту, что выживает в реальной жизни. Соберём вашу неделю так, чтобы важные задачи не откладывались до пятницы, а вечера оставались свободными.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "time-management",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-time-management.svg",
+    "photos": [
+      "/db/images/skills/business-time-management.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-personal-brand.svg"
+    ],
+    "authorId": "user_041",
+    "createdAt": "2025-07-27T20:09:00Z"
+  },
+  {
+    "id": "skill_122",
+    "title": "Французский для себя",
+    "description": "Давняя мечта без всякой практической цели — просто нравится, как язык звучит. Готов заниматься спокойно и регулярно, без экзаменов и дедлайнов.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "french",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-french.svg",
+    "photos": [
+      "/db/images/skills/languages-french.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_041",
+    "createdAt": "2025-09-01T19:55:00Z"
+  },
+  {
+    "id": "skill_123",
+    "title": "Японский с нуля",
+    "description": "Перевожу художественную литературу с японского и два года прожила в Осаке. Начнём с азбук и простых диалогов, иероглифы будем вводить порциями с мнемоникой — так они запоминаются, а не превращаются в бесконечную зубрёжку.",
+    "type": "teach",
+    "category": "languages",
+    "subcategory": "japanese",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-japanese.svg",
+    "photos": [
+      "/db/images/skills/languages-japanese.svg",
+      "/db/images/skills/languages.svg",
+      "/db/images/skills/languages-spanish.svg"
+    ],
+    "authorId": "user_042",
+    "createdAt": "2025-10-13T20:27:00Z"
+  },
+  {
+    "id": "skill_124",
+    "title": "Порядок при плотной работе",
+    "description": "В дедлайн квартира зарастает за три дня, потом я трачу выходные на разбор. Хочу систему, которая держится сама и не требует силы воли.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "cleaning",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cleaning.svg",
+    "photos": [
+      "/db/images/skills/home-cleaning.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_042",
+    "createdAt": "2025-12-08T12:33:00Z"
+  },
+  {
+    "id": "skill_125",
+    "title": "Коучинг для фрилансера",
+    "description": "Работаю на себя восемь лет, но последний год топчусь на месте и не понимаю, куда двигаться. Ищу человека, который задаст правильные вопросы вместо готовых советов.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "coaching",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-coaching.svg",
+    "photos": [
+      "/db/images/skills/education-coaching.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_042",
+    "createdAt": "2026-05-28T12:28:00Z"
+  },
+  {
+    "id": "skill_126",
+    "title": "Цифровой рисунок на планшете",
+    "description": "Рисую иллюстрации для настольных игр и работаю в Procreate каждый день. Разберём интерфейс, слои и кисти на практике: за несколько встреч вы нарисуете законченную иллюстрацию, а не десять пробных мазков.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "drawing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-drawing.svg",
+    "photos": [
+      "/db/images/skills/art-drawing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-decor-diy.svg"
+    ],
+    "authorId": "user_043",
+    "createdAt": "2026-01-11T16:29:00Z"
+  },
+  {
+    "id": "skill_127",
+    "title": "Английский для зарубежных заказчиков",
+    "description": "Хочу работать с иностранными издателями, но переписка отнимает полдня и всё равно выходит скованной. Нужна практика деловых писем и созвонов.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_043",
+    "createdAt": "2026-03-21T07:37:00Z"
+  },
+  {
+    "id": "skill_128",
+    "title": "Как упаковать услуги",
+    "description": "Беру заказы хаотично и постоянно занижаю цену. Хочу разобраться с позиционированием и научиться считать стоимость своей работы честно.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "entrepreneurship",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-entrepreneurship.svg",
+    "photos": [
+      "/db/images/skills/business-entrepreneurship.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_043",
+    "createdAt": "2026-07-25T07:41:00Z"
+  },
+  {
+    "id": "skill_129",
+    "title": "Заготовки и ферментация",
+    "description": "Технолог с пятнадцатилетним стажем, дома делаю квашеную капусту, кимчи и соленья круглый год. Разберём, что происходит с продуктами при брожении, как не испортить банку и с каких простых заготовок начать.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "cooking",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-cooking.svg",
+    "photos": [
+      "/db/images/skills/home-cooking.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-plants.svg"
+    ],
+    "authorId": "user_044",
+    "createdAt": "2026-04-01T02:12:00Z"
+  },
+  {
+    "id": "skill_130",
+    "title": "Фото для кулинарного блога",
+    "description": "Хочу вести блог о заготовках, но мои фотографии банок выглядят как отчёт с производства. Нужны базовые приёмы съёмки еды дома.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "photography",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_044",
+    "createdAt": "2026-06-21T16:23:00Z"
+  },
+  {
+    "id": "skill_131",
+    "title": "Как учиться после сорока",
+    "description": "Планирую пройти профессиональную переподготовку и боюсь, что не потяну учёбу параллельно с работой. Хочу заранее выстроить подход.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "learning-skills",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-learning-skills.svg",
+    "photos": [
+      "/db/images/skills/education-learning-skills.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_044",
+    "createdAt": "2026-09-10T16:35:00Z"
+  },
+  {
+    "id": "skill_132",
+    "title": "Силовые тренировки дома",
+    "description": "Тренирую восемь лет, специализируюсь на тех, кто возвращается к спорту после долгого перерыва. Соберём программу из гантелей и резинок, поставим технику по видео и договоримся о нагрузке, которую вы выдержите в обычную рабочую неделю.",
+    "type": "teach",
+    "category": "health",
+    "subcategory": "fitness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-fitness.svg",
+    "photos": [
+      "/db/images/skills/health-fitness.svg",
+      "/db/images/skills/health.svg",
+      "/db/images/skills/health-work-life-balance.svg"
+    ],
+    "authorId": "user_045",
+    "createdAt": "2026-08-03T16:06:00Z"
+  },
+  {
+    "id": "skill_133",
+    "title": "Английский для профессиональной литературы",
+    "description": "Хорошие исследования по тренировкам выходят на английском, а я разбираю их со словарём по абзацу. Хочу читать бегло и понимать терминологию.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_045",
+    "createdAt": "2026-08-07T16:06:00Z"
+  },
+  {
+    "id": "skill_134",
+    "title": "Финансы самозанятого",
+    "description": "Доход скачет от сезона, и я никак не выстрою накопления. Нужен человек, который поможет разложить нерегулярный доход по полочкам.",
+    "type": "learn",
+    "category": "home",
+    "subcategory": "home-finance",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-home-finance.svg",
+    "photos": [
+      "/db/images/skills/home-home-finance.svg",
+      "/db/images/skills/home.svg"
+    ],
+    "authorId": "user_045",
+    "createdAt": "2026-07-11T07:53:00Z"
+  },
+  {
+    "id": "skill_135",
+    "title": "Уход за домашними растениями",
+    "description": "Работаю флористом семь лет и держу дома больше шестидесяти растений. Научу читать сигналы листьев, правильно поливать и пересаживать — и подберём зелень, которая простит вам командировки и забывчивость.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "plants",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-plants.svg",
+    "photos": [
+      "/db/images/skills/home-plants.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-cooking.svg"
+    ],
+    "authorId": "user_046",
+    "createdAt": "2026-08-04T04:01:00Z"
+  },
+  {
+    "id": "skill_136",
+    "title": "Продвижение маленькой мастерской",
+    "description": "Заказы идут только от знакомых, реклама съедает деньги без результата. Хочу понять, где искать своих клиентов и что писать, чтобы они откликались.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "marketing",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-marketing.svg",
+    "photos": [
+      "/db/images/skills/business-marketing.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_046",
+    "createdAt": "2026-08-11T16:50:00Z"
+  },
+  {
+    "id": "skill_137",
+    "title": "Йога для тех, кто весь день на ногах",
+    "description": "К вечеру ноги гудят, спина устаёт от постоянных наклонов над столом. Ищу практику на двадцать минут, которая реально снимает эту усталость.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "yoga",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-yoga.svg",
+    "photos": [
+      "/db/images/skills/health-yoga.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_046",
+    "createdAt": "2026-06-26T18:07:00Z"
+  },
+  {
+    "id": "skill_138",
+    "title": "Динамичный монтаж для блога",
+    "description": "Пять лет монтирую ролики для блогеров с миллионной аудиторией. Покажу, как держать темп, работать с джамп-катами и звуком и собирать выпуск за вечер, а не за три дня.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "video-editing",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-video-editing.svg",
+    "photos": [
+      "/db/images/skills/art-video-editing.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-creative-writing.svg"
+    ],
+    "authorId": "user_047",
+    "createdAt": "2026-07-06T16:20:00Z"
+  },
+  {
+    "id": "skill_139",
+    "title": "Как продавать свои услуги",
+    "description": "На переговорах с клиентом теряюсь и соглашаюсь на их условия. Хочу научиться обсуждать бюджет спокойно и аргументированно.",
+    "type": "learn",
+    "category": "business",
+    "subcategory": "sales",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-sales.svg",
+    "photos": [
+      "/db/images/skills/business-sales.svg",
+      "/db/images/skills/business.svg"
+    ],
+    "authorId": "user_047",
+    "createdAt": "2026-09-05T01:59:00Z"
+  },
+  {
+    "id": "skill_140",
+    "title": "Концентрация без залипания",
+    "description": "Монтаж требует часов внимания, а я через двадцать минут уже в ленте. Ищу практики, которые помогут удерживать фокус.",
+    "type": "learn",
+    "category": "health",
+    "subcategory": "mindfulness",
+    "tags": "здоровье",
+    "imageUrl": "/db/images/skills/health-mindfulness.svg",
+    "photos": [
+      "/db/images/skills/health-mindfulness.svg",
+      "/db/images/skills/health.svg"
+    ],
+    "authorId": "user_047",
+    "createdAt": "2026-09-11T19:08:00Z"
+  },
+  {
+    "id": "skill_141",
+    "title": "SMM для небольшого бизнеса",
+    "description": "Шесть лет веду соцсети кофеен, студий и мастерских с бюджетом в пару тысяч в месяц. Соберём контент-план под ваш бизнес и разберём, что писать, когда «ничего не происходит», — без танцев в кадре и накруток.",
+    "type": "teach",
+    "category": "business",
+    "subcategory": "marketing",
+    "tags": "бизнес",
+    "imageUrl": "/db/images/skills/business-marketing.svg",
+    "photos": [
+      "/db/images/skills/business-marketing.svg",
+      "/db/images/skills/business.svg",
+      "/db/images/skills/business-time-management.svg"
+    ],
+    "authorId": "user_048",
+    "createdAt": "2026-07-30T02:44:00Z"
+  },
+  {
+    "id": "skill_142",
+    "title": "Творчество для восстановления",
+    "description": "Придумывать идеи каждый день на потоке — быстро опустошает. Хочу формат, где можно творить без брифа, дедлайна и оценки результата.",
+    "type": "learn",
+    "category": "art",
+    "subcategory": "art-therapy",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-art-therapy.svg",
+    "photos": [
+      "/db/images/skills/art-art-therapy.svg",
+      "/db/images/skills/art.svg"
+    ],
+    "authorId": "user_048",
+    "createdAt": "2026-08-01T23:28:00Z"
+  },
+  {
+    "id": "skill_143",
+    "title": "Немецкий для работы",
+    "description": "Появился клиент с немецким рынком, и мне не хватает даже базы. Нужен человек, который начнёт с нуля и будет держать регулярность.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "german",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-german.svg",
+    "photos": [
+      "/db/images/skills/languages-german.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_048",
+    "createdAt": "2026-09-09T06:55:00Z"
+  },
+  {
+    "id": "skill_144",
+    "title": "Электрика в квартире",
+    "description": "Тридцать лет работаю электриком, последние десять — на частных объектах. Объясню, как устроен щиток, как безопасно поменять розетку и выключатель и в каких случаях за дело нельзя браться самому ни при каких обстоятельствах.",
+    "type": "teach",
+    "category": "home",
+    "subcategory": "repair",
+    "tags": "дом",
+    "imageUrl": "/db/images/skills/home-repair.svg",
+    "photos": [
+      "/db/images/skills/home-repair.svg",
+      "/db/images/skills/home.svg",
+      "/db/images/skills/home-storage.svg"
+    ],
+    "authorId": "user_049",
+    "createdAt": "2026-08-05T03:53:00Z"
+  },
+  {
+    "id": "skill_145",
+    "title": "Чтение технической литературы",
+    "description": "Нормативы и инструкции меняются, а читаю я медленно и устаю от мелкого текста. Хочу научиться работать с такими документами быстрее.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "speed-reading",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-speed-reading.svg",
+    "photos": [
+      "/db/images/skills/education-speed-reading.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_049",
+    "createdAt": "2026-08-23T19:02:00Z"
+  },
+  {
+    "id": "skill_146",
+    "title": "Предметная съёмка для маркетплейсов",
+    "description": "Снимаю карточки товаров пять лет, через мои руки прошли тысячи предметов. Научу собирать лайтбокс из подручных вещей, ставить свет и обрабатывать фото так, чтобы карточка проходила модерацию и продавала.",
+    "type": "teach",
+    "category": "art",
+    "subcategory": "photography",
+    "tags": "творчество",
+    "imageUrl": "/db/images/skills/art-photography.svg",
+    "photos": [
+      "/db/images/skills/art-photography.svg",
+      "/db/images/skills/art.svg",
+      "/db/images/skills/art-music.svg"
+    ],
     "authorId": "user_050",
-    "createdAt": "2026-07-24T15:20:00Z"
+    "createdAt": "2026-07-20T16:35:00Z"
+  },
+  {
+    "id": "skill_147",
+    "title": "Английский для выхода на зарубежные площадки",
+    "description": "Планирую снимать для иностранных магазинов и не понимаю половину требований в их брифах. Нужна практика чтения и переписки с заказчиками.",
+    "type": "learn",
+    "category": "languages",
+    "subcategory": "english",
+    "tags": "языки",
+    "imageUrl": "/db/images/skills/languages-english.svg",
+    "photos": [
+      "/db/images/skills/languages-english.svg",
+      "/db/images/skills/languages.svg"
+    ],
+    "authorId": "user_050",
+    "createdAt": "2026-07-20T16:35:00Z"
+  },
+  {
+    "id": "skill_148",
+    "title": "Как перестать соглашаться на всё",
+    "description": "Беру любые заказы из страха остаться без работы и в итоге работаю без выходных. Хочу научиться выбирать проекты и спокойно отказывать.",
+    "type": "learn",
+    "category": "education",
+    "subcategory": "personal-development",
+    "tags": "образование",
+    "imageUrl": "/db/images/skills/education-personal-development.svg",
+    "photos": [
+      "/db/images/skills/education-personal-development.svg",
+      "/db/images/skills/education.svg"
+    ],
+    "authorId": "user_050",
+    "createdAt": "2026-09-07T19:02:00Z"
   }
 ]

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Ментальное здоровье">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9f7e7"/>
+      <stop offset="100%" stop-color="#bce3b4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="188" cy="372" r="109" fill="#6aab5c" opacity="0.09"/>
+  <circle cx="765" cy="42" r="150" fill="#6aab5c" opacity="0.12"/>
+  <circle cx="31" cy="564" r="130" fill="#6aab5c" opacity="0.12"/>
+  <path d="M436 148 c-92 0 -156 60 -156 140 c0 34 12 58 12 86 c0 22 16 34 40 34 h40 v-58 h34 c56 0 100 -44 100 -100 z" fill="#f4fdf2" stroke="#22401c" stroke-width="11" stroke-linejoin="round"/>
+    <path d="M408 246 c18 -22 52 -18 60 8 c6 20 -8 40 -32 58 l-28 22 l-28 -22 c-24 -18 -38 -38 -32 -58 c8 -26 42 -30 60 -8 z" fill="#6aab5c"/>
+    <g stroke="#22401c" stroke-width="9" stroke-linecap="round" opacity="0.4">
+      <path d="M536 200 l34 -22"/><path d="M552 268 h40"/><path d="M536 336 l34 22"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#22401c">Ментальное здоровье</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#22401c" opacity="0.65">ЗДОРОВЬЕ И ЛАЙФСТАЙЛ</text>
+</svg>

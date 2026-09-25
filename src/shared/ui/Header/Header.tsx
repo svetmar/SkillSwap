@@ -1,6 +1,6 @@
 import clsx from 'clsx'
 import styles from './Header.module.css'
-import categories from '../../lib/categories.json'
+import { skillCategories } from '../../lib/skillCategories'
 import themeLogo from '../../../assets/images/themeLogo.svg'
 import { Logo } from '../logo'
 import { Button } from '@/shared/ui/Button'
@@ -10,7 +10,6 @@ import { useAboutProjectModal } from '@/features/filters/about-project/model/use
 import { AboutProjectModal } from '@/features/filters/about-project/ui/AboutProjectModal'
 import { useAppDispatch, useAppSelector } from '@/store/hooks'
 import { setSearchValue } from '@/features/search'
-import type { SkillCategory } from '../../types/index'
 import { useNavigate } from 'react-router-dom'
 import { ROUTES } from '@/shared/lib/constants'
 
@@ -34,7 +33,7 @@ export const HeaderUI = () => {
             <Button variant="tertiary" onClick={openAbout} className={clsx(styles.navLinkBtn)}>
               О проекте
             </Button>
-            <SkillsDropdown sections={categories as unknown as SkillCategory[]} />
+            <SkillsDropdown sections={skillCategories} />
           </div>
         </nav>
 

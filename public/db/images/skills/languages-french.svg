@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Французский">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5efd2"/>
+      <stop offset="100%" stop-color="#e0cf8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="659" cy="288" r="116" fill="#b89a3c" opacity="0.11"/>
+  <circle cx="619" cy="247" r="142" fill="#b89a3c" opacity="0.15"/>
+  <circle cx="7" cy="161" r="153" fill="#b89a3c" opacity="0.12"/>
+  <g fill="#4a4014">
+      <path d="M400 130 l14 0 l26 118 l-66 0 z"/>
+      <path d="M356 262 h88 l28 88 l-144 0 z"/>
+      <path d="M318 364 h164 l22 66 l-208 0 z"/>
+      <rect x="386" y="112" width="28" height="26" rx="8"/>
+    </g>
+    <g fill="#fffdf1">
+      <path d="M392 300 h16 l0 130 l-16 0 z" opacity="0.5"/>
+    </g>
+    <rect x="470" y="140" width="180" height="96" rx="24" fill="#b89a3c"/><path d="M590 236 l-4 46 l-46 -46 z" fill="#b89a3c"/>
+    <text x="560" y="202" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="600" fill="#fffdf1">Bonjour</text>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#4a4014">Французский</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#4a4014" opacity="0.65">ИНОСТРАННЫЕ ЯЗЫКИ</text>
+</svg>

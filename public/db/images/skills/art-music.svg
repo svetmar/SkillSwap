@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Музыка и звук">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="128" cy="156" r="127" fill="#cf6aa8" opacity="0.09"/>
+  <circle cx="178" cy="572" r="177" fill="#cf6aa8" opacity="0.14"/>
+  <circle cx="794" cy="413" r="156" fill="#cf6aa8" opacity="0.10"/>
+  <g fill="#5a2148">
+      <ellipse cx="324" cy="368" rx="46" ry="34" transform="rotate(-20 324 368)"/>
+      <rect x="358" y="176" width="16" height="182" rx="8"/>
+      <path d="M374 176 c56 16 76 42 70 86 c-16 -32 -36 -44 -70 -48 z"/>
+    </g>
+    <g fill="#cf6aa8">
+      <rect x="432" y="316" width="22" height="70" rx="11"/>
+      <rect x="470" y="272" width="22" height="114" rx="11"/>
+      <rect x="508" y="304" width="22" height="82" rx="11"/>
+      <rect x="546" y="252" width="22" height="134" rx="11"/>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Музыка и звук</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Рисование и иллюстрация">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="219" cy="69" r="92" fill="#cf6aa8" opacity="0.12"/>
+  <circle cx="96" cy="563" r="148" fill="#cf6aa8" opacity="0.11"/>
+  <circle cx="56" cy="461" r="117" fill="#cf6aa8" opacity="0.09"/>
+  <path d="M232 400 c60 -96 120 -96 180 -48 c60 48 108 34 152 -46" stroke="#cf6aa8" stroke-width="13" fill="none" stroke-linecap="round"/>
+    <g transform="rotate(38 420 250)">
+      <rect x="386" y="126" width="70" height="196" rx="14" fill="#fdf2f9"/>
+      <rect x="386" y="126" width="70" height="48" rx="14" fill="#cf6aa8"/>
+      <path d="M386 322 h70 l-35 58 z" fill="#5a2148"/>
+      <path d="M404 352 h32 l-16 28 z" fill="#fdf2f9"/>
+    </g>
+  <text x="400" y="480" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#5a2148">Рисование и</text>
+  <text x="400" y="524" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#5a2148">иллюстрация</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

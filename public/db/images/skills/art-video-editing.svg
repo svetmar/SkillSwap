@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Видеомонтаж">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="785" cy="55" r="136" fill="#cf6aa8" opacity="0.14"/>
+  <circle cx="633" cy="372" r="147" fill="#cf6aa8" opacity="0.12"/>
+  <circle cx="86" cy="156" r="115" fill="#cf6aa8" opacity="0.14"/>
+  <rect x="240" y="238" width="320" height="180" rx="22" fill="#5a2148"/>
+    <g transform="rotate(-12 400 206)">
+      <rect x="240" y="170" width="320" height="64" rx="16" fill="#cf6aa8"/>
+      <g fill="#fdf2f9">
+        <path d="M268 170 l26 0 l-22 64 l-26 0 z"/>
+        <path d="M340 170 l26 0 l-22 64 l-26 0 z"/>
+        <path d="M412 170 l26 0 l-22 64 l-26 0 z"/>
+        <path d="M484 170 l26 0 l-22 64 l-26 0 z"/>
+      </g>
+    </g>
+    <path d="M376 296 l64 38 l-64 38 z" fill="#fdf2f9"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Видеомонтаж</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

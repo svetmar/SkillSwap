@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Уборка и организация">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbeee6"/>
+      <stop offset="100%" stop-color="#f0c9b0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="59" cy="160" r="175" fill="#cf8a63" opacity="0.10"/>
+  <circle cx="17" cy="565" r="149" fill="#cf8a63" opacity="0.09"/>
+  <circle cx="734" cy="575" r="155" fill="#cf8a63" opacity="0.10"/>
+  <path d="M286 268 h188 l-22 152 a30 30 0 0 1 -30 26 h-84 a30 30 0 0 1 -30 -26 z" fill="#cf8a63"/>
+    <rect x="270" y="238" width="220" height="38" rx="19" fill="#5a3624"/>
+    <path d="M286 300 h188" stroke="#fff6ef" stroke-width="12" opacity="0.5"/>
+    <g transform="rotate(20 540 280)">
+      <rect x="524" y="120" width="26" height="200" rx="13" fill="#5a3624"/>
+      <rect x="492" y="312" width="90" height="46" rx="14" fill="#f0c9b0"/>
+      <g stroke="#5a3624" stroke-width="8" stroke-linecap="round" opacity="0.6">
+        <path d="M508 358 v40"/><path d="M537 358 v40"/><path d="M566 358 v40"/>
+      </g>
+    </g>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a3624">Уборка и организация</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a3624" opacity="0.65">ДОМ И УЮТ</text>
+</svg>

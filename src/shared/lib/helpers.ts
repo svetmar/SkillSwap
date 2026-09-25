@@ -19,3 +19,13 @@ export function truncate(str: string, maxLength: number): string {
 export function generateId(): string {
   return crypto.randomUUID()
 }
+
+/**
+ * Приводит путь из моков (`/db/...`) к базовому пути сборки.
+ * Нужно из-за `base: '/SkillSwap/'` в vite.config.ts — на GitHub Pages
+ * и в dev-сервере статика лежит не в корне домена.
+ */
+export function assetUrl(path: string): string {
+  if (/^(https?:|data:|blob:)/.test(path)) return path
+  return `${import.meta.env.BASE_URL}${path.replace(/^\//, '')}`
+}

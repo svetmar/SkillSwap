@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Фотография">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="598" cy="532" r="135" fill="#cf6aa8" opacity="0.09"/>
+  <circle cx="635" cy="386" r="123" fill="#cf6aa8" opacity="0.09"/>
+  <circle cx="207" cy="421" r="178" fill="#cf6aa8" opacity="0.10"/>
+  <rect x="252" y="214" width="296" height="196" rx="30" fill="#5a2148"/>
+    <path d="M338 214 l22 -36 h80 l22 36 z" fill="#5a2148"/>
+    <rect x="286" y="242" width="58" height="26" rx="13" fill="#cf6aa8"/>
+    <circle cx="400" cy="318" r="76" fill="#fdf2f9"/>
+    <circle cx="400" cy="318" r="56" fill="#cf6aa8"/>
+    <circle cx="400" cy="318" r="30" fill="#3c1330"/>
+    <circle cx="381" cy="299" r="11" fill="#ffffff" opacity="0.85"/>
+    <circle cx="506" cy="252" r="12" fill="#efb9de"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Фотография</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

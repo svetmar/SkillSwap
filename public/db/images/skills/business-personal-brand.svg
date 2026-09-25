@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Личный бренд">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#efe6fb"/>
+      <stop offset="100%" stop-color="#c9b6f0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="34" cy="7" r="169" fill="#8a6fd4" opacity="0.13"/>
+  <circle cx="31" cy="576" r="160" fill="#8a6fd4" opacity="0.09"/>
+  <circle cx="613" cy="216" r="160" fill="#8a6fd4" opacity="0.12"/>
+  <circle cx="400" cy="272" r="94" fill="#f7f3fe"/>
+    <circle cx="400" cy="246" r="34" fill="#3b2a63"/>
+    <path d="M348 344 a52 52 0 0 1 104 0 z" fill="#3b2a63"/>
+    <path d="M400 118 l13 30 l32 4 l-24 22 l7 32 l-28 -17 l-28 17 l7 -32 l-24 -22 l32 -4 z" fill="#8a6fd4"/>
+    <path d="M272 330 l9 21 l22 3 l-17 15 l5 22 l-19 -12 l-19 12 l5 -22 l-17 -15 l22 -3 z" fill="#8a6fd4" opacity="0.8"/>
+    <path d="M528 330 l9 21 l22 3 l-17 15 l5 22 l-19 -12 l-19 12 l5 -22 l-17 -15 l22 -3 z" fill="#8a6fd4" opacity="0.8"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#3b2a63">Личный бренд</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#3b2a63" opacity="0.65">БИЗНЕС И КАРЬЕРА</text>
+</svg>

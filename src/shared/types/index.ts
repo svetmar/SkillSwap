@@ -21,10 +21,14 @@ export interface User {
   id: string
   name: string
   email: string
+  /** Пароль демо-аккаунта: моки заменяют бэкенд, вход сверяется с этим полем */
+  password: string
   avatarUrl: string | null
   createdAt: string
   city: string
   age: number
+  /** Дата рождения в формате YYYY-MM-DD, согласована с age */
+  birthDate: string
   gender: GenderType
   likes: number
   about: string

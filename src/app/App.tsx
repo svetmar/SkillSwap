@@ -7,7 +7,7 @@ import '../assets/styles/fonts.css'
 export function App() {
   return (
     <StoreProvider>
-      <BrowserRouter>
+      <BrowserRouter basename={import.meta.env.BASE_URL}>
         <AppRouter />
       </BrowserRouter>
     </StoreProvider>

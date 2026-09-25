@@ -1,6 +1,7 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
+import { LOCAL_STORAGE_KEYS } from '@/shared/lib/constants'
 
-const FAVORITES_STORAGE_KEY = 'favorites'
+const FAVORITES_STORAGE_KEY = LOCAL_STORAGE_KEYS.FAVORITES
 
 export interface FavoriteState {
   userIds: string[]

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Физические тренировки">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e9f7e7"/>
+      <stop offset="100%" stop-color="#bce3b4"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="651" cy="230" r="95" fill="#6aab5c" opacity="0.12"/>
+  <circle cx="611" cy="66" r="133" fill="#6aab5c" opacity="0.13"/>
+  <circle cx="13" cy="277" r="122" fill="#6aab5c" opacity="0.11"/>
+  <rect x="356" y="262" width="88" height="44" rx="12" fill="#22401c"/>
+    <rect x="300" y="226" width="58" height="116" rx="18" fill="#6aab5c"/>
+    <rect x="442" y="226" width="58" height="116" rx="18" fill="#6aab5c"/>
+    <rect x="252" y="250" width="50" height="68" rx="16" fill="#22401c"/>
+    <rect x="498" y="250" width="50" height="68" rx="16" fill="#22401c"/>
+    <g stroke="#22401c" stroke-width="10" stroke-linecap="round" opacity="0.45">
+      <path d="M232 190 h56"/><path d="M512 190 h56"/>
+    </g>
+  <text x="400" y="480" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#22401c">Физические</text>
+  <text x="400" y="524" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#22401c">тренировки</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#22401c" opacity="0.65">ЗДОРОВЬЕ И ЛАЙФСТАЙЛ</text>
+</svg>

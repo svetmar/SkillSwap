@@ -67,6 +67,12 @@ export default function SkillPage() {
     [category, skill],
   )
 
+  const skillImages = useMemo(() => {
+    if (!skill) return []
+    if (skill.photos?.length) return skill.photos
+    return skill.imageUrl ? [skill.imageUrl] : []
+  }, [skill])
+
   const similarUsers = useMemo<UserCardProps[]>(() => {
     if (!skill) return []
 
@@ -160,11 +166,7 @@ export default function SkillPage() {
             category={category?.name ?? ''}
             subcategory={subcategory?.name ?? ''}
             description={skill.description}
-            images={
-              skill.photos && skill.photos.length > 0
-                ? skill.photos
-                : ['/db/images/users/user-01.jpg', '/db/images/users/user-02.jpg']
-            }
+            images={skillImages}
             liked={false}
             onToggleLike={() => {}}
           />

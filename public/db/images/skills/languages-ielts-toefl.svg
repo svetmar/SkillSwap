@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Подготовка к экзаменам (IELTS, TOEFL)">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5efd2"/>
+      <stop offset="100%" stop-color="#e0cf8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="702" cy="543" r="178" fill="#b89a3c" opacity="0.12"/>
+  <circle cx="616" cy="305" r="99" fill="#b89a3c" opacity="0.12"/>
+  <circle cx="188" cy="323" r="146" fill="#b89a3c" opacity="0.12"/>
+  <rect x="252" y="146" width="256" height="300" rx="22" fill="#fffdf1"/>
+    <g fill="#b89a3c">
+      <rect x="286" y="188" width="34" height="34" rx="10"/>
+      <rect x="286" y="250" width="34" height="34" rx="10"/>
+      <rect x="286" y="312" width="34" height="34" rx="10"/>
+    </g>
+    <g fill="#e0cf8c">
+      <rect x="340" y="198" width="134" height="16" rx="8"/>
+      <rect x="340" y="260" width="134" height="16" rx="8"/>
+      <rect x="340" y="322" width="98" height="16" rx="8"/>
+    </g>
+    <g stroke="#fffdf1" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M294 204 l8 9 l16 -18"/>
+      <path d="M294 266 l8 9 l16 -18"/>
+    </g>
+    <g transform="rotate(35 524 330)">
+      <rect x="500" y="228" width="48" height="150" rx="10" fill="#4a4014"/>
+      <path d="M500 378 h48 l-24 42 z" fill="#b89a3c"/>
+    </g>
+  <text x="400" y="480" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#4a4014">Подготовка к экзаменам</text>
+  <text x="400" y="524" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="600" fill="#4a4014">(IELTS, TOEFL)</text>
+  <text x="400" y="562" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#4a4014" opacity="0.65">ИНОСТРАННЫЕ ЯЗЫКИ</text>
+</svg>

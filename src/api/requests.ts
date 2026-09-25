@@ -1,6 +1,7 @@
 import type { SwapRequest } from '@/shared/types';
+import { assetUrl } from '@/shared/lib/helpers'
 
-const BASE_URL = '/db';
+const BASE_URL = assetUrl('/db');
 
 export interface ExchangeRequest extends SwapRequest {
   fromUserName: string;

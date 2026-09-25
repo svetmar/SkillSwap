@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Декор и DIY">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fbe8f5"/>
+      <stop offset="100%" stop-color="#efb9de"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#bg)"/>
+  <circle cx="731" cy="158" r="157" fill="#cf6aa8" opacity="0.14"/>
+  <circle cx="107" cy="306" r="103" fill="#cf6aa8" opacity="0.14"/>
+  <circle cx="753" cy="19" r="131" fill="#cf6aa8" opacity="0.10"/>
+  <rect x="240" y="150" width="212" height="180" rx="16" fill="#5a2148"/>
+    <rect x="262" y="172" width="168" height="136" rx="10" fill="#fdf2f9"/>
+    <path d="M262 308 l50 -62 l40 42 l34 -30 l44 50 z" fill="#cf6aa8"/>
+    <circle cx="308" cy="212" r="16" fill="#efb9de"/>
+    <path d="M486 330 h94 l-12 96 a26 26 0 0 1 -26 22 h-18 a26 26 0 0 1 -26 -22 z" fill="#cf6aa8"/>
+    <path d="M533 330 c-44 -14 -58 -50 -44 -92 c42 10 56 46 44 92 z" fill="#5a2148"/>
+  <text x="400" y="506" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#5a2148">Декор и DIY</text>
+  <text x="400" y="546" text-anchor="middle" font-family="Jost, 'Helvetica Neue', Arial, sans-serif" font-size="20" letter-spacing="2" fill="#5a2148" opacity="0.65">ТВОРЧЕСТВО И ИСКУССТВО</text>
+</svg>

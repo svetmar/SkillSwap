@@ -1,6 +1,6 @@
 import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit'
 import { Skill } from './types'
-import { fetchSkills } from '@/api/skills'
+import { fetchUserSkills } from '@/api/userSkills'
 import { GenderType, SkillType } from '@/shared/types'
 
 export type TSkillFilters = {
@@ -35,7 +35,7 @@ export const fetchSkillsThunk = createAsyncThunk<Skill[], void, { rejectValue: s
   'skills/fetchSkills',
   async (_, { rejectWithValue }) => {
     try {
-      return await fetchSkills()
+      return await fetchUserSkills()
     } catch (error) {
       if (error instanceof Error) {
         return rejectWithValue(error.message)

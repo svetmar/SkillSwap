@@ -13,6 +13,8 @@ import { CrossIcon } from './icons/CrossIcon'
 import userimg from '@/assets/images/user.svg'
 import { useNavigate } from 'react-router-dom'
 import { ROUTES } from '@/shared/lib/constants'
+import { fetchCities } from '@/api/cities'
+import { fetchCategories } from '@/api/categories'
 
 const REGISTRATION_KEY = 'skillswap_registration'
 
@@ -47,17 +49,17 @@ export default function RegistrationStep2Page() {
   ]
 
   useEffect(() => {
-    fetch('/db/cities.json')
-      .then((response) => response.json())
+    fetchCities()
       .then((data: City[]) => setCities(data))
+      .catch(() => setCities([]))
   }, [])
 
   const CityOptions: SingleSelectOption[] = cities.map(city => ({ value: String(city.id), label: city.name }))
 
   useEffect(() => {
-    fetch('/db/skills.json')
-      .then((response) => response.json())
+    fetchCategories()
       .then((data: SkillCategory[]) => setCategories(data))
+      .catch(() => setCategories([]))
   }, [])
 
   const categoryOptions: MultiSelectOption[] = categories.map(category => ({

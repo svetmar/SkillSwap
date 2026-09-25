@@ -46,18 +46,31 @@ src/
 └── widgets/              # Составные блоки: Header, SkillCard, FiltersBar
 
 public/
-└── db/
-    ├── skills.json       # Добавь сюда моки навыков
-    └── users.json        # Добавь сюда моки пользователей
+└── db/                   # Мок-база: см. public/db/README.md
+    ├── users.json        # 50 пользователей
+    ├── userSkills.json   # 148 навыков (teach / learn)
+    ├── categories.json   # Справочник категорий и подкатегорий
+    ├── requests.json     # 30 заявок на обмен
+    ├── cities.json       # 22 города
+    └── images/           # Фото пользователей и SVG-обложки навыков
 ```
 
 ---
 
 ## Моки данных
 
-Файлы `public/db/skills.json` и `public/db/users.json` **пустые**.
+Бэкенда нет — данные лежат статическими JSON в `public/db`. Что в каком файле, кто его читает,
+куда приложение пишет и какие инварианты нельзя ломать — в [`public/db/README.md`](public/db/README.md).
 
-Структура объектов описана в `src/shared/types/index.ts`.
+Типы объектов описаны в `src/shared/types/index.ts`.
+
+Запросы идут через `src/api/*`; базовый путь подставляет `assetUrl()` из
+`src/shared/lib/helpers.ts` — из-за `base: '/SkillSwap/'` обращаться к `/db/...` напрямую нельзя.
+
+### Демо-вход
+
+Email любого пользователя из `users.json`, пароль у всех — `Demo1234!`.
+Самый наполненный аккаунт: `maria88@mail.ru` (заявки во всех статусах, уведомления, два навыка).
 
 ---
 
@@ -80,9 +93,14 @@ public/
 
 Маршруты объявлены в `src/shared/lib/constants.ts` → `ROUTES`.
 
-Lazy-загрузка уже настроена в `src/app/providers/RouterProvider.tsx`.
+Lazy-загрузка уже настроена в `src/app/providers/RouterProvider.tsx`, защищённые маршруты
+обёрнуты в `PrivateRoute` из `src/app/providers/PrivateRoute.tsx`.
 
-Для защищённых маршрутов добавь компонент `PrivateRoute` в `src/features/auth/ui/`.
+`BrowserRouter` получает `basename={import.meta.env.BASE_URL}` — приложение живёт по адресу
+`/SkillSwap/`, а не в корне домена.
+
+Ещё не подключены к роутеру: `/requests`, `/exchanges`, `/my-skills` (ссылки есть в
+`ProfileSidebar`) и страницы `RegistrationStep1-3Page`.
 
 ---
 
@@ -130,6 +148,24 @@ refactor: вынести логику избранного в хук
 ```
 
 PR — не больше ~200 строк изменений. Вливает только тимлид или его заместитель. `--force` и `merge --no-ff` в `develop` запрещены.
+
+---
+
+## Деплой на GitHub Pages
+
+`.github/workflows/deploy.yml` собирает проект на каждый push в `develop` и публикует `dist/`.
+В настройках репозитория **Settings → Pages → Source** должен быть выбран `GitHub Actions`.
+
+Сайт живёт не в корне домена, а по адресу `https://<owner>.github.io/SkillSwap/`, поэтому:
+
+- `base: '/SkillSwap/'` в `vite.config.ts` должен совпадать с именем репозитория (регистр важен);
+- `BrowserRouter` получает `basename={import.meta.env.BASE_URL}`;
+- пути к мокам и картинкам проходят через `assetUrl()`.
+
+Pages не умеет SPA-фолбэк и на путь без файла отдаёт `404.html`, поэтому сборка кладёт туда
+копию `index.html` (плагин `spa-404-fallback` в `vite.config.ts`). Без этого прямой заход на
+`/skill/:id` или F5 на любой внутренней странице вернули бы ошибку вместо приложения.
+Статус ответа при этом остаётся `404` — это особенность Pages, на работу приложения не влияет.
 
 ---
 
