@@ -1,6 +1,6 @@
 import type { User } from '@/shared/types'
 
-const BASE_URL = '/db'
+const BASE_URL = `${import.meta.env.BASE_URL}db`
 
 export async function fetchUsers(): Promise<User[]> {
   const response = await fetch(`${BASE_URL}/users.json`)

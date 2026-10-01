@@ -30,7 +30,7 @@ export function Avatar({ src, name = '', seed, size = 'sm', className }: AvatarP
       {showImage && (
         <img
           className={styles.image}
-          src={src ?? undefined}
+          src={src ? `${import.meta.env.BASE_URL}${src.replace(/^\//, '')}` : undefined}
           alt={name}
           onError={() => setImageFailed(true)}
         />

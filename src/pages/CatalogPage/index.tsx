@@ -59,7 +59,7 @@ export default function CatalogPage() {
   const searchValue = useAppSelector((state) => state.search.value)
 
   useEffect(() => {
-    fetch('/db/userSkills.json')
+    fetch(`${import.meta.env.BASE_URL}db/userSkills.json`)
       .then((res) => res.json())
       .then((data) => {
         setSkills(data)
