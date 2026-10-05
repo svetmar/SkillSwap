@@ -103,13 +103,13 @@ export default function RegisterPage() {
   const [passwordError, setPasswordError] = useState('')
 
   useEffect(() => {
-    fetch('/db/cities.json')
+    fetch(`${import.meta.env.BASE_URL}db/cities.json`)
       .then((response) => response.json())
       .then((data: City[]) => setCities(data))
   }, [])
 
   useEffect(() => {
-    fetch('/db/skills.json')
+    fetch(`${import.meta.env.BASE_URL}db/skills.json`)
       .then((response) => response.json())
       .then((data: SkillCategory[]) => setCategories(data))
   }, [])
