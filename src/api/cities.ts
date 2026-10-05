@@ -1,6 +1,6 @@
 import type { City } from '@/shared/types'
 
-const BASE_URL = '/db'
+const BASE_URL = `${import.meta.env.BASE_URL}db`
 
 export async function fetchCities(): Promise<City[]> {
   const response = await fetch(`${BASE_URL}/cities.json`)

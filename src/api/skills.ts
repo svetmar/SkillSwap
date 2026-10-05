@@ -1,6 +1,6 @@
 import type { Skill } from '@/shared/types'
 
-const BASE_URL = '/db'
+const BASE_URL = `${import.meta.env.BASE_URL}db`
 
 export async function fetchSkills(): Promise<Skill[]> {
   const response = await fetch(`${BASE_URL}/skills.json`)
